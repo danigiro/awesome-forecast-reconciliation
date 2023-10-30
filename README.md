@@ -1,4 +1,6 @@
-# awesome-forecast-reconciliation
+# Awesome Forecast Reconciliation
+
+## Contents
 
 - [Cross-sectional framework](#csframe)
   - [Application](#csapp)
