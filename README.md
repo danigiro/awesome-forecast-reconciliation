@@ -2,7 +2,7 @@
 
 This repository serves as a curated reference for the domain of forecast reconciliation. It aims to contain an extensive collection of academic papers, articles, software tools, and educational resources pertaining to the practice of reconciling forecasts. Ideal for researchers, analysts, and practitioners seeking to improve the consistency and precision of forecasting methodologies.
 
-We wish to express our deep appreciation to the authors of the paper "Forecast reconciliation: A review"—George Athanasopoulos, Rob J Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis—for providing their BibTeX file, which served as the cornerstone of this repository. Their paper serves as an invaluable resource with its comprehensive and insightful analysis of the forecast reconciliation field, providing a thorough overview of the existing literature and highlighting key advancements and research trends.
+We wish to express our deep appreciation to the authors of the paper "Forecast reconciliation: A review" - George Athanasopoulos, Rob J Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis - for providing their BibTeX file, which served as the cornerstone of this repository. Their paper serves as an invaluable resource with its comprehensive and insightful analysis of the forecast reconciliation field, providing a thorough overview of the existing literature and highlighting key advancements and research trends.
 
 **Forecast reconciliation: A review** by George Athanasopoulos, Rob J Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis (2023). [[URL](https://robjhyndman.com/publications/hfreview.html)] 
 
