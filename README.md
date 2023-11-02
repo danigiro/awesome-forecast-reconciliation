@@ -1,6 +1,6 @@
 # Awesome Forecast Reconciliation
 
-Description
+This repository serves as a curated reference for the domain of forecast reconciliation. It aims to contain an extensive collection of academic papers, articles, software tools, and educational resources pertaining to the practice of reconciling forecasts. Ideal for researchers, analysts, and practitioners seeking to improve the consistency and precision of forecasting methodologies.
 
 # Unsorted list
 1. **Machine learning applications in time series hierarchical forecasting** by Mahdi Abolghasemi, Rob J Hyndman, Garth Tarr, Christoph Bergmeir (2019). [[arXiv](https://arxiv.org/abs/1912.00370)]
