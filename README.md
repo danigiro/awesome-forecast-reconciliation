@@ -1,25 +1,8 @@
 # Awesome Forecast Reconciliation
 
-## Contents
+Description
 
-- [Cross-sectional framework](#csframe)
-  - [Application](#csapp)
-- [Temporal framework](#teframe)
-  - [Application](#teapp)
-- [Cross-temporal framework](#ctframe)
-  - [Application](#ctapp)
-
-## Cross-sectional framework <a name="csframe"/>
-
-### Application <a name="csapp"/>
-
-## Temporal framework <a name="teframe"/>
-### Application <a name="teapp"/>
-## Cross-temporal framework <a name="ctframe"/>
-### Application <a name="ctapp"/>
-
-
-# Unsorted
+# Unsorted list
 1. **Machine learning applications in time series hierarchical forecasting** by Mahdi Abolghasemi, Rob J Hyndman, Garth Tarr, Christoph Bergmeir (2019). [[arXiv](https://arxiv.org/abs/1912.00370)]
 1. **Machine learning applications in hierarchical time series forecasting: Investigating the impact of promotions** by Mahdi Abolghasemi, Garth Tarr, Christoph Bergmeir, _International Journal of Forecasting_ (2022). 
 1. **Model selection in reconciling hierarchical time series** by Mahdi Abolghasemi, Rob J Hyndman, Evangelos Spiliotis, Christoph Bergmeir, _Machine Learning_ (2022). [[DOI](https://doi.org/10.1007/s10994-021-06126-z)]
