@@ -4,6 +4,8 @@ This repository serves as a curated reference for the domain of forecast reconci
 
 We wish to express our deep appreciation to the authors of the paper "[Forecast reconciliation: A review](https://robjhyndman.com/publications/hfreview.html)" - George Athanasopoulos, Rob J Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis - for providing their BibTeX file, which served as the cornerstone of this repository. Their paper serves as an invaluable resource with its comprehensive and insightful analysis of the forecast reconciliation field, providing a thorough overview of the existing literature and highlighting key advancements and research trends.
 
+:warning: The list is still incomplete and unorganized. We are in the process of reorganizing the various items.
+
 # Unsorted list
 1. **Machine learning applications in time series hierarchical forecasting** by Mahdi Abolghasemi, Rob J Hyndman, Garth Tarr, Christoph Bergmeir (2019). [[arXiv](https://arxiv.org/abs/1912.00370)]
 1. **Machine learning applications in hierarchical time series forecasting: Investigating the impact of promotions** by Mahdi Abolghasemi, Garth Tarr, Christoph Bergmeir, _International Journal of Forecasting_ (2022). 
