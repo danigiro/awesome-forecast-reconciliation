@@ -266,3 +266,5 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **The impact of aggregation level on forecasting performance** by Giulio Zotteri, Matteo Kalchschmidt, Federico Caniato, _International Journal of Production Economics_ (2005). [[DOI](https://doi.org/10.1016/j.ijpe.2004.06.044)]
 1. **A model for selecting the appropriate level of aggregation in forecasting processes** by Giulio Zotteri, Matteo Kalchschmidt, _International Journal of Production Economics_ (2007). [[DOI](https://doi.org/10.1016/j.ijpe.2006.12.030)]
 
+1. **Reconciling Temporal Hierarchies of Wind Power Production with Forecast-Dependent Variance Structures** by Sørensen, Mikkel L., Jan K. Møller, and Henrik Madsen, _European Mathematical Society Magazine_ (2023). [[DOI](https://doi.org/10.4171/mag/172)]
+
