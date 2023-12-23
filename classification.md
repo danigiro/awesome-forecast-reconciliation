@@ -8,10 +8,17 @@
 - [Software](#soft)
 
 ## Cross-sectional framework <a name="csframe"/>
-
+1. **Optimal forecast reconciliation for hierarchical and grouped time series through trace minimization** by Shanika L. Wickramasuriya, George Athanasopoulos, Rob J. Hyndman, _Journal of the American Statistical Association_ (2019). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1080/01621459.2018.1448825)
+1. **Optimal non-negative forecast reconciliation** by Shanika L. Wickramasuriya, Berwin A. Turlach, Rob J. Hyndman, _Statistics and Computing_ (2020). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1007/s11222-020-09930-0)
+1. **Forecast reconciliation: A geometric view with new insights on bias correction** by Anastasios Panagiotelis, George Athanasopoulos, Puwasala Gamakumara, Rob J. Hyndman, _International Journal of Forecasting_ (2021). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1016/j.ijforecast.2020.06.004)
+1. **Probabilistic forecast reconciliation: properties, evaluation and score optimisation** by Anastasios Panagiotelis, Puwasala Gamakumara, George Athanasopoulos, Rob J Hyndman, _European Journal of Operational Research_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1016/j.ejor.2022.07.040)
+1. **Point and probabilistic forecast reconciliation for general linearly constrained multiple time series** by Daniele Girolimetto, Tommaso Di Fonzo, _Statistical Methods & Applications_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1007/s10260-023-00738-6) [<img src="https://cdn.simpleicons.org/arxiv" alt="[arXiv]" width=14px height=14px>](https://arxiv.org/abs/2305.05330)
+   
 ## Temporal framework <a name="teframe"/>
 
 ## Cross-temporal framework <a name="ctframe"/>
+1. **Cross-temporal Probabilistic Forecast Reconciliation** by Daniele Girolimetto, George Athanasopoulos, Tommaso  Di Fonzo, Rob J Hyndman, _International Journal of Forecasting_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1016/j.ijforecast.2023.10.003) [<img src="https://cdn.simpleicons.org/github/008000" alt="[GitHub]" width=14px height=14px>](https://github.com/danigiro/ctprob) [<img src="https://cdn.simpleicons.org/arxiv" alt="[arXiv]" width=14px height=14px>](https://arxiv.org/abs/2303.17277)
+
 
 ## Software <a name="soft"/>
 
@@ -91,8 +98,6 @@
 1. **Global energy forecasting competition 2017: Hierarchical probabilistic load forecasting** by Tao Hong, Jingrui Xie, Jonathan Black, _International Journal of Forecasting_ (2019). [[DOI](https://doi.org/10.1016/j.ijforecast.2019.02.006)][[URL](http://www.sciencedirect.com/science/article/pii/S016920701930024X)]
 1. **Improving Probabilistic Infectious Disease Forecasting Through Coherence** by G C Gibson, K R Moran, N G Reich, D Osthus, _PLoS computational biology_ (2021). [[DOI](https://doi.org/10.1371/journal.pcbi.1007623)][[URL](http://dx.doi.org/10.1371/journal.pcbi.1007623)]
 1. **A hierarchical approach to probabilistic wind power forecasting** by Ciaran Gilbert, Jethro Browell, David McMillan, _2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)_ (2018). [[DOI](https://doi.org/10.1109/PMAPS.2018.8440571)]
-1. **Point and probabilistic forecast reconciliation for general linearly constrained multiple time series** by Daniele Girolimetto, Tommaso Di Fonzo, _https://arxiv.org/abs/2305.05330_ (2023). 
-1. **Cross-temporal Probabilistic Forecast Reconciliation** by Daniele Girolimetto, George Athanasopoulos, Tommaso  Di Fonzo, Rob J Hyndman, _International Journal of Forecasting_ (2023). 
 1. **Forecasting hierarchical time series with a regularized embedding space** by Jeffrey L. Gleason, _MileTS '20: 6th KDD Workshop on Mining and Learning from Time Series 2020_ (2020). [[URL](https://kdd-milets.github.io/milets2020/papers/MiLeTS2020_paper_13.pdf)]
 1. **GluonTS: Probabilistic Time Series Modeling in Python** by A. Alexandrov, K. Benidis, M. Bohlke-Schneider, V. Flunkert, J. Gasthaus, T. Januschowski, D. C. Maddix, S. Rangapuram, D. Salinas, J. Schulz, L. Stella, A. C. Türkmen, Y. Wang (2023). [[URL](https://ts.gluon.ai/)]
 1. **GluonTS: Probabilistic and Neural Time Series Modeling in Python** by Alexander Alexandrov, Konstantinos Benidis, Michael Bohlke-Schneider, Valentin Flunkert, Jan Gasthaus, Tim Januschowski, Danielle C. Maddix, Syama Rangapuram, David Salinas, Jasper Schulz, Lorenzo Stella, Ali Caner Türkmen, Yuyang Wang, _Journal of Machine Learning Research_ (2020). [[URL](http://jmlr.org/papers/v21/19-820.html)]
@@ -165,8 +170,6 @@
 1. **HierarchicalForecast: A Reference Framework for Hierarchical Forecasting in Python** by Kin G. Olivares, Federico Garza, David Luo, Cristian Challú, Max Mergenthaler, Souhaib Ben Taieb, Shanika L. Wickramasuriya, Artur Dubrawski (2023). [[arXiv](https://arxiv.org/abs/2207.03517)]
 1. **Data aggregation and information loss** by Guy H. Orcutt, Harold W. Watts, John B. Edwards, _The American Economic Review_ (1968). 
 1. **Algorithm 583: LSQR: Sparse linear equations and least squares problems** by Christopher C Paige, Michael A Saunders, _ACM Transactions on Mathematical Software (TOMS)_ (1982). 
-1. **Forecast reconciliation: A geometric view with new insights on bias correction** by Anastasios Panagiotelis, George Athanasopoulos, Puwasala Gamakumara, Rob J. Hyndman, _International Journal of Forecasting_ (2021). [[DOI](https://doi.org/10.1016/j.ijforecast.2020.06.004)]
-1. **Probabilistic forecast reconciliation: properties, evaluation and score optimisation** by Anastasios Panagiotelis, Puwasala Gamakumara, George Athanasopoulos, Rob J Hyndman, _European Journal of Operational Research_ (2023). [[DOI](https://doi.org/10.1016/j.ejor.2022.07.040)]
 1. **Coherent probabilistic solar power forecasting** by Hossein Panamtash, Qun Zhou, _2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)_ (2018). [[DOI](https://doi.org/10.1109/PMAPS.2018.8440483)]
 1. **Hierarchically regularized deep forecasting** by Biswajit Paria, Rajat Sen, Amr Ahmed, Abhimanyu Das (2021). [[arXiv](https://arxiv.org/abs/2106.07630)]
 1. **Variational Bayesian inference for forecasting hierarchical time series** by Mijung Park, Marcel Nassar, _International Conference on Machine Learning, Workshop on divergence methods for probabilistic inference_ (2014). [[URL](https://privacy-preserving-machine-learning.github.io/ICMLworkshop_PARK_NASSAR.pdf)]
@@ -255,8 +258,6 @@
 1. **Properties of point forecast reconciliation approaches** by Shanika L Wickramasuriya (2021). [[arXiv](https://arxiv.org/abs/2103.11129)]
 1. **Probabilistic forecast reconciliation under the Gaussian framework** by Shanika L Wickramasuriya (2021). [[arXiv](https://arxiv.org/abs/2103.11128)]
 1. **Probabilistic Forecast Reconciliation under the Gaussian Framework** by Shanika L. Wickramasuriya, _Journal of Business and Economic Statistics_ (2023). [[DOI](https://doi.org/10.1080/07350015.2023.2181176)][[URL](https://doi.org/10.1080/07350015.2023.2181176)]
-1. **Optimal forecast reconciliation for hierarchical and grouped time series through trace minimization** by Shanika L. Wickramasuriya, George Athanasopoulos, Rob J. Hyndman, _Journal of the American Statistical Association_ (2019). [[DOI](https://doi.org/10.1080/01621459.2018.1448825)]
-1. **Optimal non-negative forecast reconciliation** by Shanika L. Wickramasuriya, Berwin A. Turlach, Rob J. Hyndman, _Statistics and Computing_ (2020). [[DOI](https://doi.org/10.1007/s11222-020-09930-0)]
 1. **Forecasting item-level demands: an analytical evaluation of top-down versus bottom-up forecasting in a production-planning framework** by H Widiarta, S Viswanathan, R Piplani, _IMA Journal of Management Mathematics_ (2008). [[DOI](https://doi.org/10.1093/imaman/dpm039)]
 1. **Top-down versus bottom-up demand forecasts: The value of shared point-of-sale data in the retail supply chain** by Brent D. Williams, Matthew A. Waller, _Journal of Business Logistics_ (2011). [[DOI](https://doi.org/10.1111/j.2158-1592.2011.01002.x)]
 1. **Reconciling solar forecasts: Sequential reconciliation** by Gokhan Mert Yagli, Dazhi Yang, Dipti Srinivasan, _Solar Energy_ (2019). [[DOI](https://doi.org/10.1016/j.solener.2018.12.075)]
