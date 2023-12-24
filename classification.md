@@ -6,36 +6,38 @@
 - [Temporal framework](#teframe)
 - [Cross-temporal framework](#ctframe)
 - [Software](#soft)
+- [Thesis](#Thesis)
 
 ## Cross-sectional framework <a name="csframe"/>
-1. **Optimal forecast reconciliation for hierarchical and grouped time series through trace minimization** by Shanika L. Wickramasuriya, George Athanasopoulos, Rob J. Hyndman, _Journal of the American Statistical Association_ (2019). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1080/01621459.2018.1448825)
-1. **Optimal non-negative forecast reconciliation** by Shanika L. Wickramasuriya, Berwin A. Turlach, Rob J. Hyndman, _Statistics and Computing_ (2020). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1007/s11222-020-09930-0)
-1. **Forecast reconciliation: A geometric view with new insights on bias correction** by Anastasios Panagiotelis, George Athanasopoulos, Puwasala Gamakumara, Rob J. Hyndman, _International Journal of Forecasting_ (2021). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1016/j.ijforecast.2020.06.004)
-1. **Probabilistic forecast reconciliation: properties, evaluation and score optimisation** by Anastasios Panagiotelis, Puwasala Gamakumara, George Athanasopoulos, Rob J Hyndman, _European Journal of Operational Research_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1016/j.ejor.2022.07.040)
-1. **Point and probabilistic forecast reconciliation for general linearly constrained multiple time series** by Daniele Girolimetto, Tommaso Di Fonzo, _Statistical Methods & Applications_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1007/s10260-023-00738-6) [<img src="https://cdn.simpleicons.org/arxiv" alt="[arXiv]" width=14px height=14px>](https://arxiv.org/abs/2305.05330)
+1. **Hierarchical forecasts for Australian domestic tourism** by George Athanasopoulos, Roman A Ahmed, Rob J Hyndman, _International Journal of Forecasting_ (2009). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1016/j.ijforecast.2008.07.004)
+1. **Optimal forecast reconciliation for hierarchical and grouped time series through trace minimization** by Shanika L. Wickramasuriya, George Athanasopoulos, Rob J. Hyndman, _Journal of the American Statistical Association_ (2019). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1080/01621459.2018.1448825)
+1. **Hierarchical forecasting** by George Athanasopoulos, Puwasala Gamakumara, Anastasios Panagiotelis, Rob J Hyndman, Mohamed Affan, _Macroeconomic Forecasting in the Era of Big Data_ (2020). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1007/978-3-030-31150-6_21)
+1. **Optimal non-negative forecast reconciliation** by Shanika L. Wickramasuriya, Berwin A. Turlach, Rob J. Hyndman, _Statistics and Computing_ (2020). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1007/s11222-020-09930-0)
+1. **Forecast reconciliation: A geometric view with new insights on bias correction** by Anastasios Panagiotelis, George Athanasopoulos, Puwasala Gamakumara, Rob J. Hyndman, _International Journal of Forecasting_ (2021). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1016/j.ijforecast.2020.06.004)
+1. **Fast forecast reconciliation using linear models** by Mahsa Ashouri, Rob J. Hyndman, Galit Shmueli, _Journal of Computational \& Graphical Statistics_ (2022). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1080/10618600.2021.1939038)
+1. **Probabilistic forecast reconciliation: properties, evaluation and score optimisation** by Anastasios Panagiotelis, Puwasala Gamakumara, George Athanasopoulos, Rob J Hyndman, _European Journal of Operational Research_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1016/j.ejor.2022.07.040)
+1. **Point and probabilistic forecast reconciliation for general linearly constrained multiple time series** by Daniele Girolimetto, Tommaso Di Fonzo, _Statistical Methods & Applications_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1007/s10260-023-00738-6) [<img src="https://cdn.simpleicons.org/arxiv" alt="[arXiv]" width=16px main="arXiv">](https://arxiv.org/abs/2305.05330)
    
 ## Temporal framework <a name="teframe"/>
+1. **Forecasting with temporal hierarchies** by George Athanasopoulos, Rob J. Hyndman, Nikolaos Kourentzes, Fotios Petropoulos, _European Journal of Operational Research_ (2017). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1016/j.ejor.2017.02.046)
 
 ## Cross-temporal framework <a name="ctframe"/>
-1. **Cross-temporal Probabilistic Forecast Reconciliation** by Daniele Girolimetto, George Athanasopoulos, Tommaso  Di Fonzo, Rob J Hyndman, _International Journal of Forecasting_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=14px height=14px>](https://doi.org/10.1016/j.ijforecast.2023.10.003) [<img src="https://cdn.simpleicons.org/github/008000" alt="[GitHub]" width=14px height=14px>](https://github.com/danigiro/ctprob) [<img src="https://cdn.simpleicons.org/arxiv" alt="[arXiv]" width=14px height=14px>](https://arxiv.org/abs/2303.17277)
+1. **Cross-temporal Probabilistic Forecast Reconciliation** by Daniele Girolimetto, George Athanasopoulos, Tommaso  Di Fonzo, Rob J Hyndman, _International Journal of Forecasting_ (2023). [<img src="https://cdn.simpleicons.org/doi" alt="[DOI]" width=16px>](https://doi.org/10.1016/j.ijforecast.2023.10.003) [<img src="https://cdn.simpleicons.org/github/008000" alt="[GitHub]" width=16px>](https://github.com/danigiro/ctprob) [<img src="https://cdn.simpleicons.org/arxiv" alt="[arXiv]" width=16px>](https://arxiv.org/abs/2303.17277)
 
 
 ## Software <a name="soft"/>
+1. **FoReco: Forecast Reconciliation** by Daniele Girolimetto, Tommaso Di Fonzo (2023). [<img src="https://cdn.simpleicons.org/R" alt="[R CRAN]" width=16px>](https://CRAN.R-project.org/package=FoReco) [<img src="https://cdn.simpleicons.org/quicklook/F15F2C" alt="[Docu]" width=16px>](https://danigiro.github.io/FoReco) [<img src="https://cdn.simpleicons.org/github/008000" alt="[GitHub]" width=16px>](https://github.com/daniGiro/FoReco) 
 
-
+## PhD and master thesis <a name="Thesis"/>
+1. **Forecasting hierarchical time series** by Roman A Ahmed, _Monash PhD Thesis_ (2009). 
 
 # Unsorted
 1. **Machine learning applications in time series hierarchical forecasting** by Mahdi Abolghasemi, Rob J Hyndman, Garth Tarr, Christoph Bergmeir (2019). [[arXiv](https://arxiv.org/abs/1912.00370)]
 1. **Machine learning applications in hierarchical time series forecasting: Investigating the impact of promotions** by Mahdi Abolghasemi, Garth Tarr, Christoph Bergmeir, _International Journal of Forecasting_ (2022). 
 1. **Model selection in reconciling hierarchical time series** by Mahdi Abolghasemi, Rob J Hyndman, Evangelos Spiliotis, Christoph Bergmeir, _Machine Learning_ (2022). [[DOI](https://doi.org/10.1007/s10994-021-06126-z)]
-1. **Forecasting hierarchical time series** by Roman A Ahmed (2009). 
 1. **Hierarchical Time Series Forecast in Electrical Grids** by Vȧnia Almeida, Rita Ribeiro, Joȧo Gama, _Information Science and Applications (ICISA)_ (2016). [[DOI](https://doi.org/10.1007/978-981-10-0557-2)]
 1. **The Effect of Aggregation on Prediction in the Autoregressive model** by Takeshi Amemiya, Roland Y. Wu, _Journal of the American Statistical Association_ (1972). [[DOI](https://doi.org/10.1080/01621459.1972.10481264)]
 1. **Hierarchical forecasting with a top-down alignment of independent level forecasts** by Matthias Anderer, Feng Li, _International Journal of Forecasting_ (2022). [[DOI](https://doi.org/10.1016/j.ijforecast.2021.12.015)]
-1. **Fast forecast reconciliation using linear models** by Mahsa Ashouri, Rob J. Hyndman, Galit Shmueli, _Journal of Computational \& Graphical Statistics_ (2022). [[DOI](https://doi.org/10.1080/10618600.2021.1939038)]
-1. **Hierarchical forecasts for Australian domestic tourism** by George Athanasopoulos, Roman A Ahmed, Rob J Hyndman, _International Journal of Forecasting_ (2009). [[DOI](https://doi.org/10.1016/j.ijforecast.2008.07.004)]
-1. **Forecasting with temporal hierarchies** by George Athanasopoulos, Rob J. Hyndman, Nikolaos Kourentzes, Fotios Petropoulos, _European Journal of Operational Research_ (2017). [[DOI](https://doi.org/10.1016/j.ejor.2017.02.046)]
-1. **Hierarchical forecasting** by George Athanasopoulos, Puwasala Gamakumara, Anastasios Panagiotelis, Rob J Hyndman, Mohamed Affan, _Macroeconomic Forecasting in the Era of Big Data_ (2020). [[DOI](https://doi.org/10.1007/978-3-030-31150-6_21)]
 1. **Probabilistic forecasts using expert judgement: the road to recovery from COVID-19** by G Athanasopoulos, R J Hyndman, N Kourentzes, M. O'Hara-Wild, _Journal of Travel Research_ (2023). 
 1. **On the evaluation of hierarchical forecasts** by G. Athanasopoulos, N. Kourentzes, _International Journal of Forecasting_ (2023). 
 1. **Demand forecasting in supply chains: a review of aggregation and hierarchical approaches** by M. Zied Babai, John E. Boylan, Bahman Rostami-Tabar, _International Journal of Production Research_ (2022). [[DOI](https://doi.org/10.1080/00207543.2021.2005268)]
@@ -191,7 +193,6 @@
 1. **bayesRecon: Probabilistic Reconciliation via Conditioning** by Dario Azzimonti, Nicolò Rubattu, Lorenzo Zambon, Giorgio Corani (2023). [[URL](bayesRecon})]
 1. **A hybrid approach with step-size aggregation to forecasting hierarchical time series** by Hakeem-Ur- Rehman, Guohua Wan, Raza Rafique, _Journal of forecasting_ (2023). [[DOI](https://doi.org/10.1002/for.2895)][[URL](http://dx.doi.org/10.1002/for.2895)]
 1. **fabletools: Core Tools for Packages in the 'fable' Framework** by Mitchell O'Hara-Wild, Rob J Hyndman, Earo Wang (2023). [[URL](fabletools})]
-1. **FoReco: Point Forecast Reconciliation** by Daniele Girolimetto, Tommaso Di Fonzo (2022). [[URL](FoReco})]
 1. **gtop: Game-Theoretically OPtimal (GTOP) Reconciliation Method** by Jairo Cugliari, Tim van Erven (2015). [[URL](gtop})]
 1. **hts: Hierarchical and Grouped Time Series** by Rob J Hyndman, Alan Lee, Earo Wang, Shanika Wickramasuriya (2021). [[URL](hts})]
 1. **hts: Hierarchical Time Series** by Rob J Hyndman, Roman A Ahmed, Han Lin Shang (2010). [[URL](https://cran.r-project.org/src/contrib/Archive/hts/hts_1.0.tar.gz)]
