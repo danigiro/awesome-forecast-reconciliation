@@ -268,5 +268,5 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 
 1. **Reconciling Temporal Hierarchies of Wind Power Production with Forecast-Dependent Variance Structures** by Sørensen, Mikkel L., Jan K. Møller, and Henrik Madsen, _European Mathematical Society Magazine_ (2023). [[DOI](https://doi.org/10.4171/mag/172)]
 1. **Coherent Hierarchical Probabilistic Forecasting of Electric Vehicle Charging Demand** by Zheng, Kedi, Hanwei Xu, Zeyang Long, Yi Wang, and Qixin Chen, _IEEE Transactions on Industry Applications_ (2023). [[DOI](https://doi.org/10.1109/tia.2023.3344544)]
-
+1. **Check for Updates Electricity Load and Peak Forecasting: Feature Engineering, Probabilistic Light GBM and Temporal Hierarchies** by Rubattu, Nicolò, Gabriele Maroni, and Giorgio Corani, _Advanced Analytics and Learning on Temporal Data: 8th ECML PKDD Workshop_ (2023). 
 
