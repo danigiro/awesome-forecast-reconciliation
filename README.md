@@ -270,3 +270,5 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Coherent Hierarchical Probabilistic Forecasting of Electric Vehicle Charging Demand** by Zheng, Kedi, Hanwei Xu, Zeyang Long, Yi Wang, and Qixin Chen, _IEEE Transactions on Industry Applications_ (2023). [[DOI](https://doi.org/10.1109/tia.2023.3344544)]
 1. **Check for Updates Electricity Load and Peak Forecasting: Feature Engineering, Probabilistic Light GBM and Temporal Hierarchies** by Rubattu, Nicolò, Gabriele Maroni, and Giorgio Corani, _Advanced Analytics and Learning on Temporal Data: 8th ECML PKDD Workshop_ (2023).
 1. **Optimal Reconciliation of Hierarchical Wind Energy Forecasts Utilizing Temporal Correlation.** by Sharma, Navneet, Rohit Bhakar, and Prerna Jain, _Energy Conversion and Management_ (2024). [[DOI](https://doi.org/10.1016/j.enconman.2023.118053)]
+1. **Editorial: Innovations in Hierarchical Forecasting** by Athanasopoulos, George, Rob J. Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis, _International Journal of Forecasting_ (2024). [[DOI](https://doi.org/10.1016/j.ijforecast.2024.01.003)]
+
