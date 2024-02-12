@@ -30,7 +30,7 @@
 
 
 ## Software <a name="soft"/>
-1. **FoReco: Forecast Reconciliation** by Daniele Girolimetto, Tommaso Di Fonzo (2023). [<img src="https://cdn.simpleicons.org/R" alt="[R CRAN]" width=16px>](https://CRAN.R-project.org/package=FoReco) [<img src="https://cdn.simpleicons.org/quicklook/F15F2C" alt="[Docu]" width=16px>](https://danigiro.github.io/FoReco) [[github]](https://github.com/daniGiro/FoReco) 
+1. **FoReco: Forecast Reconciliation** by Daniele Girolimetto, Tommaso Di Fonzo (2023). [[R cran]](https://CRAN.R-project.org/package=FoReco) [[docu]](https://danigiro.github.io/FoReco) [[github]](https://github.com/daniGiro/FoReco) 
 
 ## PhD and master thesis <a name="Thesis"/>
 1. **Forecasting hierarchical time series** by Roman A Ahmed, _Monash PhD Thesis_ (2009). 
