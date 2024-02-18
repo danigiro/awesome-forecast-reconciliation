@@ -278,4 +278,6 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Forecasting Australian Fertility by Age, Region, and Birthplace.** by Yang, Yang, Han Lin Shang, and James Raymer, _International Journal of Forecasting_ (2022). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.08.001)]
 1. **Likelihood-Based Inference in Temporal Hierarchies.** by Møller, Jan Kloppenborg, Peter Nystrup, and Henrik Madsen, _International Journal of Forecasting_ (2023). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.12.005)]
 1. **Counterfactual Reconciliation: Incorporating Aggregation Constraints for More Accurate Causal Effect Estimates.** by Cengiz, Doruk, and Hasan Tekgüç, _International Journal of Forecasting_ (2022). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.08.011)]
+1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen. [[arXiv](http://arxiv.org/abs/2402.06480)]
+
 
