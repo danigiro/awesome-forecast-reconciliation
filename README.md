@@ -138,7 +138,7 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **A machine learning approach for forecasting hierarchical time series** by Paolo Mancuso, Veronica Piccialli, Antonio M. Sudoso, _Expert Systems with Applications_ (2021). [[DOI](https://doi.org/10.1016/j.eswa.2021.115102)]
 1. **A novel reconciliation approach for hierarchical electricity consumption forecasting based on resistant regression** by Erick Meira, Maur\'\icio Franca Lila, Fernando Luiz Cyrino Oliveira, _Energy_ (2023). 
 1. **Forecasting hierarchical time series in supply chains: an empirical investigation** by Dejan Mircetic, Bahman Rostami-Tabar, Svetlana Nikolicic, Marinko Maslaric, _International Journal of Production Research_ (2022). [[DOI](https://doi.org/10.1080/00207543.2021.1896817)]
-1. **A self-supervised approach to hierarchical forecasting with applications to groupwise synthetic controls** by Konstantin Mishchenko, Mallory Montgomery, Federico Vaggi, _https://arxiv.org/abs/1906.10586_ (2019). 
+1. **A self-supervised approach to hierarchical forecasting with applications to groupwise synthetic controls** by Konstantin Mishchenko, Mallory Montgomery, Federico Vaggi (2019). [[arXiv](https://arxiv.org/abs/1906.10586)]
 1. **Forecast horizon aggregation in integer autoregressive moving average (INARMA) models** by Maryam Mohammadipour, John E Boylan, _Omega_ (2012). 
 1. **The development of a hierarchical forecasting method for predicting spare parts demand in the South Korean Navy—A case study** by Seongmin Moon, Christian Hicks, Andrew Simpson, _International Journal of Production Economics_ (2012). 
 1. **Blending gradient boosted trees and neural networks for point and probabilistic forecasting of hierarchical time series** by Ioannis Nasios, Konstantinos Vogklis, _International Journal of Forecasting_ (2022). 
@@ -279,5 +279,6 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Likelihood-Based Inference in Temporal Hierarchies.** by Møller, Jan Kloppenborg, Peter Nystrup, and Henrik Madsen, _International Journal of Forecasting_ (2023). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.12.005)]
 1. **Counterfactual Reconciliation: Incorporating Aggregation Constraints for More Accurate Causal Effect Estimates.** by Cengiz, Doruk, and Hasan Tekgüç, _International Journal of Forecasting_ (2022). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.08.011)]
 1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen. [[arXiv](http://arxiv.org/abs/2402.06480)]
+1. **Multivariate Online Linear Regression for Hierarchical Forecasting.** by Hihat, Massil, Guillaume Garrigos, Adeline Fermanian, and Simon Bussy (2024). [[arXiv](http://arxiv.org/abs/2402.14578)]
 
 
