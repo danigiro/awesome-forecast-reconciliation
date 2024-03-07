@@ -280,5 +280,4 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Counterfactual Reconciliation: Incorporating Aggregation Constraints for More Accurate Causal Effect Estimates.** by Cengiz, Doruk, and Hasan Tekgüç, _International Journal of Forecasting_ (2022). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.08.011)]
 1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen. [[arXiv](http://arxiv.org/abs/2402.06480)]
 1. **Multivariate Online Linear Regression for Hierarchical Forecasting.** by Hihat, Massil, Guillaume Garrigos, Adeline Fermanian, and Simon Bussy (2024). [[arXiv](http://arxiv.org/abs/2402.14578)]
-
-
+1. **Optimal Forecast Reconciliation with Time Series Selection.** by Wang, Xiaoqian, Rob J. Hyndman, and Shanika L. Wickramasuriya (2024).  [[URL](https://robjhyndman.com/publications/hf_selection.html)]
