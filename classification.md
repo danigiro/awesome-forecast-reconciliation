@@ -11,7 +11,7 @@
 ## Introduction
 1. **Notation for forecast reconciliation** by Rob J Hyndman (2022). [[url]](https://robjhyndman.com/hyndsight/reconciliation-notation.html)
 1. **Editorial: Innovations in Hierarchical Forecasting** by Athanasopoulos, George, Rob J. Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis, _International Journal of Forecasting_ (2024). [[doi]](https://doi.org/10.1016/j.ijforecast.2024.01.003)
-
+1. **Forecast reconciliation: A review** by Athanasopoulos, George, Rob J. Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis, _International Journal of Forecasting_ (2024). [[doi]](https://doi.org/10.1016/j.ijforecast.2023.10.010)
 
 ## Cross-sectional framework <a name="csframe"/>
 1. **Hierarchical forecasts for Australian domestic tourism** by George Athanasopoulos, Roman A Ahmed, Rob J Hyndman, _International Journal of Forecasting_ (2009). [[doi]](https://doi.org/10.1016/j.ijforecast.2008.07.004)
@@ -103,14 +103,15 @@
 
 
 
-## Beyond forecast...
+## Beyond forecasting/Not only forecasting...
 1. **The precision of national income estimates** by Richard Stone, D. G. Champernowne, J. E. Meade, _Review of Economic Studies_ (1942). [[doi]](https://doi.org/10.2307/2967664)
 1. **Input-output and national accounts** by Richard Stone (1961). 
 1. **The estimation of large social account matrices** by R P Byron, _Journal of the Royal Statistical Society, Series A_ (1978). [[doi]](https://doi.org/10.2307/2344807) [[url]](http://www.jstor.org/stable/2344807)
 1. **Corrigenda: The estimation of large social account matrices** by R P Byron, _Journal of the Royal Statistical Society. Series A_ (1979). [[doi]](https://doi.org/10.2307/2982515)
-1. **The estimation of $M$ disaggregate time series when contemporaneous and temporal aggregates are known** by Tommaso Di Fonzo, _The Review of Economics and Statistics_ (1990). [[doi]](https://doi.org/10.2307/2109758) [[url]](http://www.jstor.org/stable/2109758)
-1. **Benchmarking, Temporal Distribution, and Reconciliation Methods for Time Series** by Estela Bee Dagum, Pierre A Cholette (2006). [[doi]](https://doi.org/10.1007/0-387-35439-5) [[url]](https://link.springer.com/book/10.1007/0-387-35439-5)
-1. **Simultaneous and two-step reconciliation of systems of time series: methodological and practical issues** by Tommaso Di Fonzo, Marco Marini, _Journal of the Royal Statistical Society, Series C_ (2011).
+1. **The estimation of $M$ disaggregate time series when contemporaneous and temporal aggregates are known** by Tommaso Di Fonzo, _The Review of Economics and Statistics_ (1990). [[doi]](https://doi.org/10.2307/2109758)
+1. **Benchmarking, Temporal Distribution, and Reconciliation Methods for Time Series** by Estela Bee Dagum, Pierre A Cholette (2006). [[doi]](https://doi.org/10.1007/0-387-35439-5)
+1. **Simultaneous and two-step reconciliation of systems of time series: methodological and practical issues** by Tommaso Di Fonzo, Marco Marini, _Journal of the Royal Statistical Society, Series C_ (2011). [[doi]](https://doi.org/10.1111/j.1467-9876.2010.00733.x)
+
 1. **Benchmarking large accounting frameworks: a generalized multivariate model** by Reinier Bikker, Jacco Daalmans, Nino Mushkudiani, _Economic Systems Research_ (2013). 
 
 ## PhD and master thesis <a name="Thesis"/>
