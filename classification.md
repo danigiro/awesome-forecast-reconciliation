@@ -10,6 +10,7 @@
 
 ## Introduction
 1. **Notation for forecast reconciliation** by Rob J Hyndman (2022). [[url]](https://robjhyndman.com/hyndsight/reconciliation-notation.html)
+1. **Editorial: Innovations in Hierarchical Forecasting** by Athanasopoulos, George, Rob J. Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis, _International Journal of Forecasting_ (2024). [[doi]](https://doi.org/10.1016/j.ijforecast.2024.01.003)
 
 
 ## Cross-sectional framework <a name="csframe"/>
@@ -72,6 +73,7 @@
 1. **Heat load forecasting using adaptive temporal hierarchies** by Hj\orleifur G. Bergsteinsson, Jan Kloppenborg M\oller, Peter Nystrup, \'Olafur Pétur Pálsson, Daniela Guericke, Henrik Madsen, _Applied Energy_ (2021). [[doi]](https://doi.org/10.1016/j.apenergy.2021.116872)
 1. **Temporal hierarchies with autocorrelation for load forecasting** by Peter Nystrup, Erik Lindstr\om, Pierre Pinson, Henrik Madsen, _European Journal of Operational Research_ (2020). [[doi]](https://doi.org/10.1016/j.ejor.2019.07.061)
 1. **Dimensionality reduction in forecasting with temporal hierarchies** by Peter Nystrup, Erik Lindstr\om, Jan K. M\oller, Henrik Madsen, _International Journal of Forecasting_ (2021). [[doi]](https://doi.org/10.1016/j.ijforecast.2020.12.003)
+1. **Efficient probabilistic reconciliation of forecasts for real-valued and count time series** by Lorenzo Zambon, Dario Azzimonti, Giorgio Corani, _Statistics and Computing_ (2022). [[doi]](https://doi.org/10.1007/s11222-023-10343-y) [[arXiv]](https://arxiv.org/abs/2210.02286)
 1. **Likelihood-Based Inference in Temporal Hierarchies.** by Møller, Jan Kloppenborg, Peter Nystrup, and Henrik Madsen, _International Journal of Forecasting_ (2023). [[doi]](https://doi.org/10.1016/j.ijforecast.2022.12.005)
 1. **Reconciling Temporal Hierarchies of Wind Power Production with Forecast-Dependent Variance Structures** by Sørensen, Mikkel L., Jan K. Møller, and Henrik Madsen, _European Mathematical Society Magazine_ (2023). [[doi]](https://doi.org/10.4171/mag/172)
 1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen (2024). [[arXiv]](http://arxiv.org/abs/2402.06480)
@@ -302,7 +304,6 @@
 
 1. **Forecasting item-level demands: an analytical evaluation of top-down versus bottom-up forecasting in a production-planning framework** by H Widiarta, S Viswanathan, R Piplani, _IMA Journal of Management Mathematics_ (2008). [[doi]](https://doi.org/10.1093/imaman/dpm039)
 1. **Top-down versus bottom-up demand forecasts: The value of shared point-of-sale data in the retail supply chain** by Brent D. Williams, Matthew A. Waller, _Journal of Business Logistics_ (2011). [[doi]](https://doi.org/10.1111/j.2158-1592.2011.01002.x)
-1. **Efficient probabilistic reconciliation of forecasts for real-valued and count time series** by Lorenzo Zambon, Dario Azzimonti, Giorgio Corani (2022). [[arXiv]](https://arxiv.org/abs/2210.02286)
 1. **A note on aggregation, disaggregation and forecasting performance** by Arnold Zellner, Justin Tobias, _Journal of Forecasting_ (2000). [[doi]](https://doi.org/10.1002/1099-131X(200009)19:5%3C457::AID-FOR761%3E3.0.CO;2-6)
 1. **Aggregate versus subaggregate models in local area forecasting** by D. M. Dunn, W. H. Williams, T. L. Dechaine, _Journal of the American Statistical Association_ (1976). [[doi]](https://doi.org/10.1080/01621459.1976.10481478)
 
@@ -310,7 +311,6 @@
 1. **Coherent Hierarchical Probabilistic Forecasting of Electric Vehicle Charging Demand** by Zheng, Kedi, Hanwei Xu, Zeyang Long, Yi Wang, and Qixin Chen, _IEEE Transactions on Industry Applications_ (2023). [[doi]](https://doi.org/10.1109/tia.2023.3344544)
 1. **Check for Updates Electricity Load and Peak Forecasting: Feature Engineering, Probabilistic Light GBM and Temporal Hierarchies** by Rubattu, Nicolò, Gabriele Maroni, and Giorgio Corani, _Advanced Analytics and Learning on Temporal Data: 8th ECML PKDD Workshop_ (2023).
 1. **Optimal Reconciliation of Hierarchical Wind Energy Forecasts Utilizing Temporal Correlation.** by Sharma, Navneet, Rohit Bhakar, and Prerna Jain, _Energy Conversion and Management_ (2024). [[doi]](https://doi.org/10.1016/j.enconman.2023.118053)
-1. **Editorial: Innovations in Hierarchical Forecasting** by Athanasopoulos, George, Rob J. Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis, _International Journal of Forecasting_ (2024). [[doi]](https://doi.org/10.1016/j.ijforecast.2024.01.003)
 
 
 1. **Counterfactual Reconciliation: Incorporating Aggregation Constraints for More Accurate Causal Effect Estimates.** by Cengiz, Doruk, and Hasan Tekgüç, _International Journal of Forecasting_ (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2022.08.011)
