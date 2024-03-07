@@ -111,7 +111,6 @@
 1. **The estimation of $M$ disaggregate time series when contemporaneous and temporal aggregates are known** by Tommaso Di Fonzo, _The Review of Economics and Statistics_ (1990). [[doi]](https://doi.org/10.2307/2109758)
 1. **Benchmarking, Temporal Distribution, and Reconciliation Methods for Time Series** by Estela Bee Dagum, Pierre A Cholette (2006). [[doi]](https://doi.org/10.1007/0-387-35439-5)
 1. **Simultaneous and two-step reconciliation of systems of time series: methodological and practical issues** by Tommaso Di Fonzo, Marco Marini, _Journal of the Royal Statistical Society, Series C_ (2011). [[doi]](https://doi.org/10.1111/j.1467-9876.2010.00733.x)
-
 1. **Benchmarking large accounting frameworks: a generalized multivariate model** by Reinier Bikker, Jacco Daalmans, Nino Mushkudiani, _Economic Systems Research_ (2013). 
 
 ## PhD and master thesis <a name="Thesis"/>
