@@ -104,7 +104,7 @@ The remains of the README is organised as follow. ...TODO...
 1. **fabletools: Core Tools for Packages in the 'fable' Framework** by Mitchell O'Hara-Wild, Rob J Hyndman, Earo Wang (2023). [[R cran]](https://CRAN.R-project.org/package=fabletools) [[docu]](https://fabletools.tidyverts.org/) [[github]](https://github.com/tidyverts/fabletools)
 
 ### Python
-1. **A python package for hierarchical forecasting** by Bohan Zhang, Yanfei Kang, Feng Li (2022). [[docu]](https://angelpone.github.io/pyhts/) [[github]](https://github.com/AngelPone/pyhts)
+1. **pyhts: A python package for hierarchical forecasting** by Bohan Zhang, Yanfei Kang, Feng Li (2022). [[docu]](https://angelpone.github.io/pyhts/) [[github]](https://github.com/AngelPone/pyhts)
 
 
 
