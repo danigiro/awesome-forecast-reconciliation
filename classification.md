@@ -88,13 +88,13 @@
 
 ## Software <a name="soft"/>
 ### R
-1. **fabletools: Core Tools for Packages in the 'fable' Framework** by Mitchell O'Hara-Wild, Rob J Hyndman, Earo Wang (2023). [[R cran]](https://CRAN.R-project.org/package=fabletools) [[docu]](https://fabletools.tidyverts.org/) [[github]](https://github.com/tidyverts/fabletools)
 1. **gtop: Game-Theoretically OPtimal (GTOP) Reconciliation Method** by Jairo Cugliari, Tim van Erven (2015). [[R archive]](https://cran.r-project.org/src/contrib/Archive/gtop/)
 1. **thief: Temporal HIErarchical Forecasting** by Rob J Hyndman, Nikolaos Kourentzes (2018). [[R cran]](https://CRAN.R-project.org/package=thief) [[docu]](http://pkg.robjhyndman.com/thief/) [[github]](https://github.com/robjhyndman/thief)
 1. **hts: Hierarchical and Grouped Time Series** by Rob J Hyndman, Alan Lee, Earo Wang, Shanika Wickramasuriya (2021). [[R cran]](https://CRAN.R-project.org/package=hts) [[docu]](https://pkg.earo.me/hts/) [[github]](https://github.com/earowang/hts)
 1. **ProbReco: Score Optimal Probabilistic Forecast Reconciliation** by Anastasios Panagiotelis (2020). [[R archive]](https://cran.r-project.org/src/contrib/Archive/ProbReco/) [[github]](https://github.com/anastasiospanagiotelis/ProbReco)
 1. **FoReco: Forecast Reconciliation** by Daniele Girolimetto, Tommaso Di Fonzo (2023). [[R cran]](https://CRAN.R-project.org/package=FoReco) [[docu]](https://danigiro.github.io/FoReco) [[github]](https://github.com/daniGiro/FoReco)
 1. **bayesRecon: Probabilistic Reconciliation via Conditioning** by Dario Azzimonti, Nicolò Rubattu, Lorenzo Zambon, Giorgio Corani (2023). [[R cran]](https://CRAN.R-project.org/package=bayesRecon) [[github]](https://github.com/IDSIA/bayesRecon)
+1. **fabletools: Core Tools for Packages in the 'fable' Framework** by Mitchell O'Hara-Wild, Rob J Hyndman, Earo Wang (2023). [[R cran]](https://CRAN.R-project.org/package=fabletools) [[docu]](https://fabletools.tidyverts.org/) [[github]](https://github.com/tidyverts/fabletools)
 
 ### Python
 1. **A python package for hierarchical forecasting** by Bohan Zhang, Yanfei Kang, Feng Li (2022). [[docu]](https://angelpone.github.io/pyhts/) [[github]](https://github.com/AngelPone/pyhts)
