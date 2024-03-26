@@ -283,4 +283,6 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Optimal Forecast Reconciliation with Time Series Selection.** by Wang, Xiaoqian, Rob J. Hyndman, and Shanika L. Wickramasuriya (2024).  [[URL](https://robjhyndman.com/publications/hf_selection.html)]
 1. **Measuring the Advantages of Contemporaneous Aggregation in Forecasting.** by  Li, Zeda, and William W. S. Wei, _Journal of Forecasting_ (2024). [[DOI](https://doi.org/10.1002/for.3083)]
 1. **NeuralReconciler for Hierarchical Time Series Forecasting.** by Wang, Shiyu, _In Proceedings of the 17th ACM International Conference on Web Search and Data Mining_ (2024). [[DOI](https://doi.org/10.1145/3616855.3635806)]
+1. **Smooth Forecast Reconciliation.** by Ando, Sakai, _IMF Working Papers_ (2024).
+
 
