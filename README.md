@@ -278,11 +278,15 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Forecasting Australian Fertility by Age, Region, and Birthplace.** by Yang, Yang, Han Lin Shang, and James Raymer, _International Journal of Forecasting_ (2022). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.08.001)]
 1. **Likelihood-Based Inference in Temporal Hierarchies.** by Møller, Jan Kloppenborg, Peter Nystrup, and Henrik Madsen, _International Journal of Forecasting_ (2023). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.12.005)]
 1. **Counterfactual Reconciliation: Incorporating Aggregation Constraints for More Accurate Causal Effect Estimates.** by Cengiz, Doruk, and Hasan Tekgüç, _International Journal of Forecasting_ (2022). [[DOI](https://doi.org/10.1016/j.ijforecast.2022.08.011)]
-1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen. [[arXiv](http://arxiv.org/abs/2402.06480)]
+1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen (2024). [[arXiv](http://arxiv.org/abs/2402.06480)]
 1. **Multivariate Online Linear Regression for Hierarchical Forecasting.** by Hihat, Massil, Guillaume Garrigos, Adeline Fermanian, and Simon Bussy (2024). [[arXiv](http://arxiv.org/abs/2402.14578)]
 1. **Optimal Forecast Reconciliation with Time Series Selection.** by Wang, Xiaoqian, Rob J. Hyndman, and Shanika L. Wickramasuriya (2024).  [[URL](https://robjhyndman.com/publications/hf_selection.html)]
 1. **Measuring the Advantages of Contemporaneous Aggregation in Forecasting.** by  Li, Zeda, and William W. S. Wei, _Journal of Forecasting_ (2024). [[DOI](https://doi.org/10.1002/for.3083)]
 1. **NeuralReconciler for Hierarchical Time Series Forecasting.** by Wang, Shiyu, _In Proceedings of the 17th ACM International Conference on Web Search and Data Mining_ (2024). [[DOI](https://doi.org/10.1145/3616855.3635806)]
 1. **Smooth Forecast Reconciliation.** by Ando, Sakai, _IMF Working Papers_ (2024).
+1. **GMP-AR: Granularity Message Passing and Adaptive Reconciliation for Temporal Hierarchy Forecasting.** by Zhou, Fan, Chen Pan, Lintao Ma, Yu Liu, Siqiao Xue, James Zhang, Jun Zhou, et al, _In Proceedings of the 38th AAAI Conference on Artificial Intelligence_ (2024). [[DOI](https://doi.org/10.1609/aaai.v38i8.28795)]
+1. **Constructing Hierarchical Time Series through Clustering: Is There an Optimal Way for Forecasting?** by Zhang, Bohan, Anastasios Panagiotelis, and Han Li (2024). [[arXiv](http://arxiv.org/abs/2404.06064)]
+
+
 
 
