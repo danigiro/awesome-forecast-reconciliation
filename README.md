@@ -286,6 +286,7 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Smooth Forecast Reconciliation.** by Ando, Sakai, _IMF Working Papers_ (2024).
 1. **GMP-AR: Granularity Message Passing and Adaptive Reconciliation for Temporal Hierarchy Forecasting.** by Zhou, Fan, Chen Pan, Lintao Ma, Yu Liu, Siqiao Xue, James Zhang, Jun Zhou, et al, _In Proceedings of the 38th AAAI Conference on Artificial Intelligence_ (2024). [[DOI](https://doi.org/10.1609/aaai.v38i8.28795)]
 1. **Constructing Hierarchical Time Series through Clustering: Is There an Optimal Way for Forecasting?** by Zhang, Bohan, Anastasios Panagiotelis, and Han Li (2024). [[arXiv](http://arxiv.org/abs/2404.06064)]
+1. **Probabilistic Reconciliation of Mixed-Type Hierarchical Time Series.** by Zambon, Lorenzo, Dario Azzimonti, Nicolò Rubattu, and Giorgio Corani, _In The 40th Conference on Uncertainty in Artificial Intelligence_ (2024). [[URL](https://openreview.net/pdf?id=KmbmBlrQkr)]
 
 
 
