@@ -288,7 +288,4 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Constructing Hierarchical Time Series through Clustering: Is There an Optimal Way for Forecasting?** by Zhang, Bohan, Anastasios Panagiotelis, and Han Li (2024). [[arXiv](http://arxiv.org/abs/2404.06064)]
 1. **Probabilistic Reconciliation of Mixed-Type Hierarchical Time Series.** by Zambon, Lorenzo, Dario Azzimonti, Nicolò Rubattu, and Giorgio Corani, _In The 40th Conference on Uncertainty in Artificial Intelligence_ (2024). [[URL](https://openreview.net/pdf?id=KmbmBlrQkr)]
 1. **Improving Crime Count Forecasts in the City of Rio de Janeiro via Reconciliation.** by Nascimento, Marcus L., and Leonardo M. Barreto, _Security Journal_ (2024).  [[DOI](https://doi.org/10.1057/s41284-024-00433-5)]
-
-
-
-
+1. **Learning Optimal Projection for Forecast Reconciliation of Hierarchical Time Series.** by Tsiourvas, Asterios, Wei Sun, Georgia Perakis, Pin-Yu Chen, and Yada Zhu, _In Forty-First International Conference on Machine Learning_ (2024). [[URL](https://openreview.net/forum?id=55HfvJ6lDB.)]
