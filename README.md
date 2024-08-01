@@ -292,4 +292,4 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Large Scale Hierarchical Industrial Demand Time-Series Forecasting Incorporating Sparsity.** by Kamarthi, Harshavardhan, Aditya B. Sasanur, Xinjie Tong, Xingyu Zhou, James Peters, Joe Czyzyk, and B. Aditya Prakash (2024). [[arXiv](http://arxiv.org/abs/2407.02657)]
 1. **Forecasting the Waste Production Hierarchical Time Series with Correlation Structure.** by Eryganov, Ivan, Martin Rosecký, Radovan Šomplák, and Veronika Smejkalová, _Optimization and Engineering_ (2024). [[DOI](https://doi.org/10.1007/s11081-024-09898-0)]
 1. **Hourly Forecasting of Emergency Department Arrivals for Different ESI Levels.** by Mashinkarjavan, Shaghayegh (2024). [[URL](https://www.proquest.com/openview/3cdc6944a5c28b8284fe56cc15cd1bda/1?pq-origsite=gscholar&cbl=18750&diss=y)]
-
+1. **Forecasting Mail Flow: A Hierarchical Approach for Enhanced Societal Wellbeing.** by Kafa, Nadine, M. Zied Babai, and Walid Klibi, _International Journal of Forecasting_ (2024). [[DOI](https://doi.org/10.1016/j.ijforecast.2024.07.001)]
