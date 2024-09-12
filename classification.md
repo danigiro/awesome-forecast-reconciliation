@@ -200,13 +200,14 @@ The remains of the README is organised as follow. ...TODO...
 1. **Probabilistic Forecast Reconciliation: Theory and Applications** by Puwasala Gamakumara, _Monash PhD Thesis_ (2020). [[url]](https://bridges.monash.edu/articles/thesis/Probabilistic_Forecast_Reconciliation_Theory_and_Applications/11869533?file=21758751)
 1. **Forecast reconciliation: Methodological issues and applications** by Daniele Girolimetto, _UniPD PhD Thesis_ (2020). [[url]](https://www.research.unipd.it/handle/11577/3513823)
 
+# No hierarchy
 
+1. **Using big data to enhance demand-driven forecasting and planning** by Charles W. Chase, _Journal of Business Forecasting_ (2013). 
+    - Forecasts are produced by separate organisational silos
 
 # Unsorted
 
 
-
-1. **Using big data to enhance demand-driven forecasting and planning** by Charles W. Chase, _Journal of Business Forecasting_ (2013). 
 1. **Dynamic Temporal Reconciliation by Reinforcement learning** by Himanshi Charotia, Abhishek Garg, Gaurav Dhama, Naman Maheshwari (2022). [[arXiv]](https://arxiv.org/abs/2201.11964)
 1. **Prior information and ARIMA forecasting** by Pierre A Cholette, _Journal of Forecasting_ (1982). 
 1. **Best linear unbiased interpolation, distribution, and extrapolation of time series by related series** by Gregory C Chow, An-loh Lin, _The  of Economics and Statistics_ (1971). 
