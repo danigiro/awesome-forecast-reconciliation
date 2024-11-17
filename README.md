@@ -295,5 +295,5 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 1. **Forecasting Mail Flow: A Hierarchical Approach for Enhanced Societal Wellbeing.** by Kafa, Nadine, M. Zied Babai, and Walid Klibi, _International Journal of Forecasting_ (2024). [[DOI](https://doi.org/10.1016/j.ijforecast.2024.07.001)]
 1. **Efficient and Accurate Forecasting in Large-Scale Settings.** by Sprangers, Olivier R, _University of Amsterdam_ (2024). [[URL](https://hdl.handle.net/11245.1/f8b70a7f-3749-4b84-a23c-9135a758c2f1)]
 1. **Cross-Temporal Forecast Reconciliation at Digital Platforms with Machine Learning.** by Rombouts, Jeroen, Marie Ternes, and Ines Wilms, _International Journal of Forecasting_ (2024). [[DOI](https://doi.org/10.1016/j.ijforecast.2024.05.008.)]
-
+1. **Properties of the Reconciled Distributions for Gaussian and Count Forecasts.** by Zambon, Lorenzo, Arianna Agosto, Paolo Giudici, and Giorgio Corani, _International Journal of Forecasting_ (2024) [[DOI](https://doi.org/10.1016/j.ijforecast.2023.12.004)]
 
