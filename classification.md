@@ -307,8 +307,8 @@ The remains of the README is organised as follow. ...TODO...
 
 
 
-# No reconciliation?
-[//]: # 1. **Demand forecasting in supply chains: a review of aggregation and hierarchical approaches** by M. Zied Babai, John E. Boylan, Bahman Rostami-Tabar, _International Journal of Production Research_ (2022). [[doi]](https://doi.org/10.1080/00207543.2021.2005268)
+<!---# No reconciliation?--->
+<!--- 1. **Demand forecasting in supply chains: a review of aggregation and hierarchical approaches** by M. Zied Babai, John E. Boylan, Bahman Rostami-Tabar, _International Journal of Production Research_ (2022). [[doi]](https://doi.org/10.1080/00207543.2021.2005268)
 1. **Forecast UPC-level FMCG demand, Part I: Exploratory analysis and visualization** by Dazhi Yang, Gary S.W. Goh, Chi Xu, Allan N. Zhang, Orkan Akcan, _Proceedings - 2015 IEEE International Conference on Big Data_ (2015). [[doi]](https://doi.org/10.1109/BigData.2015.7363993)
 1. **Forecasting of cohort fertility under a hierarchical Bayesian approach** by Joanne Ellison, Erengul Dodd, Jonathan J Forster, _Journal of the Royal Statistical Society, Series A,_ (2020). [[doi]](https://doi.org/10.1111/rssa.12566)
 1. **Global energy forecasting competition 2012** by Tao Hong, Pierre Pinson, Shu Fan, _International Journal of Forecasting_ (2014). [[doi]](https://doi.org/10.1016/j.ijforecast.2013.07.001) [[url]](http://www.sciencedirect.com/science/article/pii/S0169207013000745)
@@ -338,4 +338,4 @@ The remains of the README is organised as follow. ...TODO...
 1. **The forecast combination puzzle: A simple theoretical explanation** by Gerda Claeskens, Jan R Magnus, Andrey L Vasnev, Wendun Wang, _International Journal of Forecasting_ (2016). 
 1. **Temporal Aggregation in the Arima Process** by Daniel O. Stram, William W. S. Wei, _Journal of Time Series Analysis_ (1986). [[doi]](https://doi.org/10.1111/j.1467-9892.1986.tb00495.x)
 1. **Predictive accuracy gain from disaggregate sampling in ARIMA models** by Theo E Nijman, Franz C Palm, _Journal of Business \& Economic Statistics_ (1990). [[doi]](https://doi.org/10.1080/07350015.1990.10509811)
-1. **A new tidy data structure to support exploration and modeling of temporal data** by Earo Wang, Dianne Cook, Rob J Hyndman, _Journal of Computational and Graphical Statistics_ (2020). [[doi]](https://doi.org/10.1080/10618600.2019.1695624) [[url]](https://doi.org/10.1080/10618600.2019.1695624)
+1. **A new tidy data structure to support exploration and modeling of temporal data** by Earo Wang, Dianne Cook, Rob J Hyndman, _Journal of Computational and Graphical Statistics_ (2020). [[doi]](https://doi.org/10.1080/10618600.2019.1695624) [[url]](https://doi.org/10.1080/10618600.2019.1695624) --->
