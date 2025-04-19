@@ -10,10 +10,6 @@ The remains of the README is organised as follow. ...TODO...
 - [Cross-sectional framework](#csframe)
 - [Temporal framework](#teframe)
 - [Cross-temporal framework](#ctframe)
-- [Probabilistic Reconciliation](#prob_recon)
-    - [Cross-sectional](#prob_cs)
-    - [Temporal](#prob_te)
-    - [Cross-temporal](#prob_ct)
 - [Software](#soft)
 - [Thesis](#Thesis)
 
@@ -125,98 +121,83 @@ The remains of the README is organised as follow. ...TODO...
 1. **Generalized exponential smoothing in prediction of hierarchical time series** by Daniel Kosiorowski, Dominik Mielczarek, Jerzy Rydlewski, Ma\lgorzata Snarska, _Statistics in Transition, New series_ (2018). [[doi]](https://doi.org/10.21307/stattrans-2018-019)
 1. **Forecasting of a Hierarchical Functional Time Series on Example of Macromodel for the Day and Night Air Pollution in Silesia Region---A Critical Overview** by Daniel Kosiorowski, Dominik Mielczarek, Jerzy P. Rydlewski, _Central European Journal of Economic Modelling and Econometrics_ (2018). [[url]](https://ideas.repec.org/a/psc/journl/v10y2018i1p53-73.html)
 
+1. **Coherent probabilistic forecasts for hierarchical time series** by Souhaib Ben Taieb, James W. Taylor, Rob J. Hyndman, _Proceedings of the 34th International Conference on Machine Learning_ (2017). [[url]](https://proceedings.mlr.press/v70/taieb17a.html) [probabilistic]
+1. **Hierarchical probabilistic forecasting of electricity demand with smart meter data** by Souhaib Ben Taieb, James W. Taylor, Rob J. Hyndman, _Journal of the American Statistical Association_ (2021). [[doi]](https://doi.org/10.1080/01621459.2020.1736081) [probabilistic]
+1. **Day-ahead hierarchical probabilistic load forecasting with linear quantile regression and empirical copulas** by Tianhui Zhao, Jianxue Wang, Yao Zhang, _IEEE Access_ (2019). [[doi]](https://doi.org/10.1109/ACCESS.2019.2922744) [probabilistic]
+1. **Improving Probabilistic Infectious Disease Forecasting Through Coherence** by G C Gibson, K R Moran, N G Reich, D Osthus, _PLoS computational biology_ (2021). [[doi]](https://doi.org/10.1371/journal.pcbi.1007623) [[url]](http://dx.doi.org/10.1371/journal.pcbi.1007623) [probabilistic]
+1. **A hierarchical approach to probabilistic wind power forecasting** by Ciaran Gilbert, Jethro Browell, David McMillan, _2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)_ (2018). [[doi]](https://doi.org/10.1109/PMAPS.2018.8440571) [probabilistic]
+
+
+1. **Probabilistic forecast reconciliation: properties, evaluation and score optimisation** by Anastasios Panagiotelis, Puwasala Gamakumara, George Athanasopoulos, Rob J Hyndman, _European Journal of Operational Research_ (2023). [[doi]](https://doi.org/10.1016/j.ejor.2022.07.040) [probabilistic]
+1. **Coherent probabilistic solar power forecasting** by Hossein Panamtash, Qun Zhou, _2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)_ (2018). [[doi]](https://doi.org/10.1109/PMAPS.2018.8440483) [probabilistic]
+1. **Dirichlet Proportions Model for Hierarchically Coherent Probabilistic Forecasting** by Abhimanyu Das, Weihao Kong, Biswajit Paria, Rajat Sen (2023). [[doi]](https://doi.org/10.48550/ARXIV.2204.10414) [[arXiv]](https://arxiv.org/abs/2204.10414) [probabilistic]
+1. **End-to-end learning of coherent probabilistic forecasts for hierarchical time series** by Syama Sundar Rangapuram, Lucien D Werner, Konstantinos Benidis, Pedro Mercado, Jan Gasthaus, Tim Januschowski, _Proceedings of the 38th International Conference on Machine Learning, PMLR 139_ (2021). [[url]](http://proceedings.mlr.press/v139/rangapuram21a.html)
+    - See [Software](#soft) for the implementation in the `GluonTS` package. [probabilistic]
+1. **Probabilistic Forecast Reconciliation under the Gaussian Framework** by Shanika L. Wickramasuriya, _Journal of Business and Economic Statistics_ (2023). [[doi]](https://doi.org/10.1080/07350015.2023.2181176) [[url]](https://doi.org/10.1080/07350015.2023.2181176) [[arXiv]](https://arxiv.org/abs/2103.11128) [probabilistic]
+
+1. **Fully reconciled probabilistic GDP forecasts from income and expenditure sides** by Tommaso Di Fonzo, Daniele Girolimetto, _Book of Short Papers SIS 2022_ (2022). [[file]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf) [probabilistic]
+
+1. **Probabilistic forecasts using expert judgement: the road to recovery from COVID-19** by G Athanasopoulos, R J Hyndman, N Kourentzes, M. O'Hara-Wild, _Journal of Travel Research_ (2023). [[doi]](https://doi.org/10.1177/00472875211059240) [probabilistic]
+
+1. **Probabilistic reconciliation of count time series** by Giorgio Corani, Dario Azzimonti, Nicolo Rubattu (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2023.04.003) [[arXiv]](https://arxiv.org/abs/2207.09322) [probabilistic]
+1. **Reconciling solar forecasts: Probabilistic forecasting with homoscedastic Gaussian errors on a geographical hierarchy** by Gokhan Mert Yagli, Dazhi Yang, Dipti Srinivasan, _Solar Energy_ (2020). [[doi]](https://doi.org/10.1016/j.solener.2020.06.005) [probabilistic]
+1. **Reconciling solar forecasts: Probabilistic forecast reconciliation in a nonparametric framework** by Dazhi Yang, _Solar Energy_ (2020). [[doi]](https://doi.org/10.1016/j.solener.2020.03.095) [probabilistic]
+1. **Probabilistic reconciliation of hierarchical forecast via Bayes' rule** by Giorgio Corani, Dario Azzimonti, Jo\~ao P. S. C. Augusto, Marco Zaffalon, _Machine Learning and Knowledge Discovery in Databases_ (2021). [[doi]](https://doi.org/10.1007/978-3-030-67664-3_13) [probabilistic]
+
+1. **Grouped functional time series forecasting: an application to age-specific mortality rates** by Han Lin Shang, Rob J. Hyndman, _Journal of Computational and Graphical Statistics_ (2017). [[doi]](https://doi.org/10.1080/10618600.2016.1237877) [probabilistic]
+1. **Do we want coherent hierarchical forecasts, or minimal MAPEs or MAEs? (We won't get both!)** by Stephan Kolassa, _International Journal of Forecasting_ (2023). [probabilistic]
+
+1. **Point and probabilistic forecast reconciliation for general linearly constrained multiple time series** by Daniele Girolimetto, Tommaso Di Fonzo, _Statistical Methods & Applications_ (2023). [[doi]](https://doi.org/10.1007/s10260-023-00738-6) [[github]](https://github.com/danigiro/mtsreco) [[arXiv]](https://arxiv.org/abs/2305.05330) [probabilistic]
+
+1. **An ensemble methodology for hierarchical probabilistic electric vehicle load forecasting at regular charging stations** by L Buzna, P De Falco, G Ferruzzi, S Khormali, D Proto, N Refa, M Straka, G van der Poele, _Applied energy_ (2021). [[doi]](https://doi.org/10.1016/j.apenergy.2020.116337) [[url]](http://dx.doi.org/10.1016/j.apenergy.2020.116337) [probabilistic]
+1. **Global energy forecasting competition 2017: Hierarchical probabilistic load forecasting** by Tao Hong, Jingrui Xie, Jonathan Black, _International Journal of Forecasting_ (2019). [[doi]](https://doi.org/10.1016/j.ijforecast.2019.02.006) [probabilistic]
+1. **Probabilistic hierarchical forecasting with deep Poisson mixtures** by Kin G Olivares, O Nganba Meetei, Ruijun Ma, Rohan Reddy, Mengfei Cao, Lee Dicker (2022). [[arXiv]](https://arxiv.org/abs/2110.13179v6) [probabilistic]
+1. **Blending gradient boosted trees and neural networks for point and probabilistic forecasting of hierarchical time series** by Ioannis Nasios, Konstantinos Vogklis, _International Journal of Forecasting_ (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2022.01.001) [probabilistic]
+1. **Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting** by Cameron Roach, _International Journal of Forecasting_ (2019). [[doi]](https://doi.org/10.1016/j.ijforecast.2018.09.009) [probabilistic]
+1. **Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression** by Olivier Sprangers, Sebastian Schelter, Maarten de Rijke, _Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (2021). [[doi]](https://doi.org/10.1145/3447548.3467278) [probabilistic]
+1. **Coherent Hierarchical Probabilistic Forecasting of Electric Vehicle Charging Demand** by Zheng, Kedi, Hanwei Xu, Zeyang Long, Yi Wang, and Qixin Chen, _IEEE Transactions on Industry Applications_ (2023). [[doi]](https://doi.org/10.1109/tia.2023.3344544) [probabilistic]
+1. **Simultaneously reconciled quantile forecasting of hierarchically related time series** by Xing Han, Sambarta Dasgupta, Joydeep Ghosh, _Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS)_ (2021). [[arXiv]](https://arxiv.org/abs/2102.12612) [probabilistic]
+
+1. **Automatic hierarchical time-series forecasting using Gaussian processes** by Luis Roque, Luis Torgo, Carlos Soares, _Engineering Proceedings_ (2021). [[doi]](https://doi.org/10.3390/engproc2021005049) [probabilistic]
+1. **Hierarchically regularized deep forecasting** by Biswajit Paria, Rajat Sen, Amr Ahmed, Abhimanyu Das (2021). [[arXiv]](https://arxiv.org/abs/2106.07630) [probabilistic]
+1. **A Bayesian model for forecasting hierarchically structured time series** by Julie Novak, Scott McGarvie, Beatriz Etchegaray Garcia (2017). [[arXiv]](https://arxiv.org/abs/1711.04738) [probabilistic]
+1. **Efficient Forecasting for Hierarchical Time Series** by L Dannecker, R Lorenz, P R\osch, W Lehner, G Hackenbroich, _CIKM '13 Proceedings of the 22nd ACM international conference on Information \& Knowledge Management_ (2013). [[doi]](https://doi.org/10.1145/2505515.2505622) [[url]](http://dx.doi.org/10.1145/2505515.2505622)
 
 ## Temporal framework <a name="teframe"/>
 1. **Forecasting with temporal hierarchies** by George Athanasopoulos, Rob J. Hyndman, Nikolaos Kourentzes, Fotios Petropoulos, _European Journal of Operational Research_ (2017). [[doi]](https://doi.org/10.1016/j.ejor.2017.02.046)
 1. **Reconciling solar forecasts: Temporal hierarchy** by Dazhi Yang, Hao Quan, Vahid R. Disfani, Carlos D. Rodríguez-Gallegos, _Solar Energy_ (2017). [[doi]](https://doi.org/10.1016/j.solener.2017.09.055)
-1. **Heat load forecasting using adaptive temporal hierarchies** by Hj\orleifur G. Bergsteinsson, Jan Kloppenborg M\oller, Peter Nystrup, \'Olafur Pétur Pálsson, Daniela Guericke, Henrik Madsen, _Applied Energy_ (2021). [[doi]](https://doi.org/10.1016/j.apenergy.2021.116872)
+1. **Improving the forecasting performance of temporal hierarchies** by Evangelos Spiliotis, Fotios Petropoulos, Vassilios Assimakopoulos, _PLoS ONE_ (2019). [[doi]](https://doi.org/10.1371/journal.pone.0223422)
+1. **Probabilistic forecast reconciliation with applications to wind power and electric load** by Jooyoung Jeon, Anastasios Panagiotelis, Fotios Petropoulos, _European Journal of Operational Research_ (2019). [[doi]](https://doi.org/10.1016/j.ejor.2019.05.020) [probabilistic]
 1. **Temporal hierarchies with autocorrelation for load forecasting** by Peter Nystrup, Erik Lindstr\om, Pierre Pinson, Henrik Madsen, _European Journal of Operational Research_ (2020). [[doi]](https://doi.org/10.1016/j.ejor.2019.07.061)
+1. **Heat load forecasting using adaptive temporal hierarchies** by Hj\orleifur G. Bergsteinsson, Jan Kloppenborg M\oller, Peter Nystrup, \'Olafur Pétur Pálsson, Daniela Guericke, Henrik Madsen, _Applied Energy_ (2021). [[doi]](https://doi.org/10.1016/j.apenergy.2021.116872)
 1. **Dimensionality reduction in forecasting with temporal hierarchies** by Peter Nystrup, Erik Lindstr\om, Jan K. M\oller, Henrik Madsen, _International Journal of Forecasting_ (2021). [[doi]](https://doi.org/10.1016/j.ijforecast.2020.12.003)
+1. **Hierarchical forecast reconciliation with machine learning** by Evangelos Spiliotis, Mahdi Abolghasemi, Rob J Hyndman, Fotios Petropoulos, Vassilios Assimakopoulos, _Applied Soft Computing_ (2021). 
+1. **Forecasting with deep temporal hierarchies** by Filotas Theodosiou, Nikolaos Kourentzes, _Available at SSRN 3918315_ (2021). 
+1. **Deep Learning Temporal Hierarchies for Interval Forecasts** by Filotas Theodosiou, Nikolaos Kourentzes (2021). [[url]](https://www.researchgate.net/publication/358425154_Deep_Learning_Temporal_Hierarchies_for_Interval_Forecasts) [probabilistic]
+1. **Temporal Hierarchical Reconciliation for Consistent Water Resources Forecasting Across Multiple Timescales: An Application to Precipitation Forecasting** by M S Jahangir, J Quilty, _Water resources research_ (2022). [[doi]](https://doi.org/10.1029/2021WR031862) [[url]](http://dx.doi.org/10.1029/2021WR031862)
+1. **Dynamic Temporal Reconciliation by Reinforcement learning** by Himanshi Charotia, Abhishek Garg, Gaurav Dhama, Naman Maheshwari (2022). [[arXiv]](https://arxiv.org/abs/2201.11964)
+1. **Efficient probabilistic reconciliation of forecasts for real-valued and count time series** by Lorenzo Zambon, Dario Azzimonti, Giorgio Corani, _Statistics and Computing_ (2022). [[doi]](https://doi.org/10.1007/s11222-023-10343-y) [[arXiv]](https://arxiv.org/abs/2210.02286) [probabilistic]
 1. **Likelihood-Based Inference in Temporal Hierarchies.** by Møller, Jan Kloppenborg, Peter Nystrup, and Henrik Madsen, _International Journal of Forecasting_ (2023). [[doi]](https://doi.org/10.1016/j.ijforecast.2022.12.005)
 1. **Reconciling Temporal Hierarchies of Wind Power Production with Forecast-Dependent Variance Structures** by Sørensen, Mikkel L., Jan K. Møller, and Henrik Madsen, _European Mathematical Society Magazine_ (2023). [[doi]](https://doi.org/10.4171/mag/172)
-1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen (2024). [[arXiv]](http://arxiv.org/abs/2402.06480)
-1. **On the performance of overlapping and non-overlapping temporal demand aggregation approaches** by John E Boylan, M Zied Babai, _International Journal of Production Economics_ (2016). 
-1. **Some consequences of temporal aggregation and systematic sampling for ARMAand ARMAX models** by K.R.W. Brewer, _Journal of Econometrics_ (1973). [[doi]](https://doi.org/10.1016/0304-4076(73)90015-8)
 1. **Forecast reconciliation in the temporal hierarchy: Special case of intermittent demand with obsolescence** by Kamal Sanguri, Sabyasachi Patra, Sushil Punia, _Expert Systems with Applications_ (2023) [[doi]]](https://doi.org/10.1016/j.eswa.2023.119566)
-1. **Improving the forecasting performance of temporal hierarchies** by Evangelos Spiliotis, Fotios Petropoulos, Vassilios Assimakopoulos, _PLoS ONE_ (2019). [[doi]](https://doi.org/10.1371/journal.pone.0223422)
-1. **Hierarchical forecast reconciliation with machine learning** by Evangelos Spiliotis, Mahdi Abolghasemi, Rob J Hyndman, Fotios Petropoulos, Vassilios Assimakopoulos, _Applied Soft Computing_ (2021). 
+1. **Check for Updates Electricity Load and Peak Forecasting: Feature Engineering, Probabilistic Light GBM and Temporal Hierarchies** by Rubattu, Nicolò, Gabriele Maroni, and Giorgio Corani, _Advanced Analytics and Learning on Temporal Data: 8th ECML PKDD Workshop_ (2023). [probabilistic]
+1. **Optimal Forecast Reconciliation with Uncertainty Quantification.** by Møller, Jan Kloppenborg, Peter Nystrup, Poul G. Hjorth, and Henrik Madsen (2024). [[arXiv]](http://arxiv.org/abs/2402.06480)
 1. **Optimal Reconciliation of Hierarchical Wind Energy Forecasts Utilizing Temporal Correlation.** by Navneet Sharma, Rohit Bhakar, and Prerna Jain, _Energy Conversion and Management_ (2024). [[doi]](https://doi.org/10.1016/j.enconman.2023.118053)
-1. **Temporal Hierarchical Reconciliation for Consistent Water Resources Forecasting Across Multiple Timescales: An Application to Precipitation Forecasting** by M S Jahangir, J Quilty, _Water resources research_ (2022). [[doi]](https://doi.org/10.1029/2021WR031862) [[url]](http://dx.doi.org/10.1029/2021WR031862)
-1. **Forecasting with deep temporal hierarchies** by Filotas Theodosiou, Nikolaos Kourentzes, _Available at SSRN 3918315_ (2021). 
-1. **Dynamic Temporal Reconciliation by Reinforcement learning** by Himanshi Charotia, Abhishek Garg, Gaurav Dhama, Naman Maheshwari (2022). [[arXiv]](https://arxiv.org/abs/2201.11964)
-1. **Efficient Forecasting for Hierarchical Time Series** by L Dannecker, R Lorenz, P R\osch, W Lehner, G Hackenbroich, _CIKM '13 Proceedings of the 22nd ACM international conference on Information \& Knowledge Management_ (2013). [[doi]](https://doi.org/10.1145/2505515.2505622) [[url]](http://dx.doi.org/10.1145/2505515.2505622)
+
 
 
 ## Cross-temporal framework <a name="ctframe"/>
 1. **A greedy aggregation–decomposition method for intermittent demand forecasting in fashion retailing** by Chongshou Li, Andrew Lim, _European Journal of Operational Research_ (2018). [[doi]](https://doi.org/10.1016/j.ejor.2018.02.029)
-1. **Cross-temporal forecast reconciliation: Optimal combination method and heuristic alternatives** by Tommaso Di Fonzo, Daniele Girolimetto, _International Journal of Forecasting_ (2023). [[doi]](https://doi.org/10.1016/j.ijforecast.2021.08.004) [[github]](https://github.com/danigiro/AusGDP_IJF) [[arXiv]](https://arxiv.org/abs/2303.17277)
-1. **Reconciling solar forecasts: Sequential reconciliation** by Gokhan Mert Yagli, Dazhi Yang, Dipti Srinivasan, _Solar Energy_ (2019). [[doi]](https://doi.org/10.1016/j.solener.2018.12.075)
-1. **Enhancements in cross-temporal forecast reconciliation, with an application to solar irradiance forecasts** by Tommaso Di Fonzo, Daniele Girolimetto (2022). [[arXiv]](https://arxiv.org/abs/2209.07146)
-1. **Spatio-temporal reconciliation of solar forecasts** by Tommaso Di Fonzo, Daniele Girolimetto, _Solar Energy_ (2023). 
-1. **Toward a one-number forecast: cross-temporal hierarchies** by Nikolaos Kourentzes, _Foresight: The International Journal of Applied Forecasting_ (2022). 
-1. **Cross-temporal aggregation: Improving the forecast accuracy of hierarchical electricity consumption** by Evangelos Spiliotis, Fotios Petropoulos, Nikolaos Kourentzes, Vassilios Assimakopoulos, _Applied Energy_ (2020). [[doi]](https://doi.org/10.1016/j.apenergy.2019.114339)
 1. **Cross-temporal coherent forecasts for Australian tourism** by Nikolaos Kourentzes, George Athanasopoulos, _Annals of Tourism Research_ (2019). [[doi]](https://doi.org/10.1016/j.annals.2019.02.001)
+1. **Reconciling solar forecasts: Sequential reconciliation** by Gokhan Mert Yagli, Dazhi Yang, Dipti Srinivasan, _Solar Energy_ (2019). [[doi]](https://doi.org/10.1016/j.solener.2018.12.075)
 1. **A cross-temporal hierarchical framework and deep learning for supply chain forecasting** by Sushil Punia, Surya P. Singh, Jitendra K. Madaan, _Computers \& Industrial Engineering_ (2020). [[doi]](https://doi.org/10.1016/j.cie.2020.106796)
-
-## Probabilistic Reconciliation <a name="prob_recon"/>
-
-
-### Cross-sectional <a name="prob_cs"/>
-
-1. **Coherent probabilistic forecasts for hierarchical time series** by Souhaib Ben Taieb, James W. Taylor, Rob J. Hyndman, _Proceedings of the 34th International Conference on Machine Learning_ (2017). [[url]](https://proceedings.mlr.press/v70/taieb17a.html)
-1. **Hierarchical probabilistic forecasting of electricity demand with smart meter data** by Souhaib Ben Taieb, James W. Taylor, Rob J. Hyndman, _Journal of the American Statistical Association_ (2021). [[doi]](https://doi.org/10.1080/01621459.2020.1736081)
-1. **Day-ahead hierarchical probabilistic load forecasting with linear quantile regression and empirical copulas** by Tianhui Zhao, Jianxue Wang, Yao Zhang, _IEEE Access_ (2019). [[doi]](https://doi.org/10.1109/ACCESS.2019.2922744)
-1. **Improving Probabilistic Infectious Disease Forecasting Through Coherence** by G C Gibson, K R Moran, N G Reich, D Osthus, _PLoS computational biology_ (2021). [[doi]](https://doi.org/10.1371/journal.pcbi.1007623) [[url]](http://dx.doi.org/10.1371/journal.pcbi.1007623)
-1. **A hierarchical approach to probabilistic wind power forecasting** by Ciaran Gilbert, Jethro Browell, David McMillan, _2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)_ (2018). [[doi]](https://doi.org/10.1109/PMAPS.2018.8440571)
-
-
-1. **Probabilistic forecast reconciliation: properties, evaluation and score optimisation** by Anastasios Panagiotelis, Puwasala Gamakumara, George Athanasopoulos, Rob J Hyndman, _European Journal of Operational Research_ (2023). [[doi]](https://doi.org/10.1016/j.ejor.2022.07.040)
-1. **Coherent probabilistic solar power forecasting** by Hossein Panamtash, Qun Zhou, _2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)_ (2018). [[doi]](https://doi.org/10.1109/PMAPS.2018.8440483)
-1. **Dirichlet Proportions Model for Hierarchically Coherent Probabilistic Forecasting** by Abhimanyu Das, Weihao Kong, Biswajit Paria, Rajat Sen (2023). [[doi]](https://doi.org/10.48550/ARXIV.2204.10414) [[arXiv]](https://arxiv.org/abs/2204.10414)
-1. **End-to-end learning of coherent probabilistic forecasts for hierarchical time series** by Syama Sundar Rangapuram, Lucien D Werner, Konstantinos Benidis, Pedro Mercado, Jan Gasthaus, Tim Januschowski, _Proceedings of the 38th International Conference on Machine Learning, PMLR 139_ (2021). [[url]](http://proceedings.mlr.press/v139/rangapuram21a.html)
-    - See [Software](#soft) for the implementation in the `GluonTS` package.
-1. **Probabilistic Forecast Reconciliation under the Gaussian Framework** by Shanika L. Wickramasuriya, _Journal of Business and Economic Statistics_ (2023). [[doi]](https://doi.org/10.1080/07350015.2023.2181176) [[url]](https://doi.org/10.1080/07350015.2023.2181176) [[arXiv]](https://arxiv.org/abs/2103.11128)
-
-1. **Fully reconciled probabilistic GDP forecasts from income and expenditure sides** by Tommaso Di Fonzo, Daniele Girolimetto, _Book of Short Papers SIS 2022_ (2022). [[file]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)
-
-1. **Probabilistic forecasts using expert judgement: the road to recovery from COVID-19** by G Athanasopoulos, R J Hyndman, N Kourentzes, M. O'Hara-Wild, _Journal of Travel Research_ (2023). [[doi]](https://doi.org/10.1177/00472875211059240)
-
-1. **Probabilistic reconciliation of count time series** by Giorgio Corani, Dario Azzimonti, Nicolo Rubattu (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2023.04.003) [[arXiv]](https://arxiv.org/abs/2207.09322)
-1. **Reconciling solar forecasts: Probabilistic forecasting with homoscedastic Gaussian errors on a geographical hierarchy** by Gokhan Mert Yagli, Dazhi Yang, Dipti Srinivasan, _Solar Energy_ (2020). [[doi]](https://doi.org/10.1016/j.solener.2020.06.005)
-1. **Reconciling solar forecasts: Probabilistic forecast reconciliation in a nonparametric framework** by Dazhi Yang, _Solar Energy_ (2020). [[doi]](https://doi.org/10.1016/j.solener.2020.03.095) 
-1. **Probabilistic reconciliation of hierarchical forecast via Bayes' rule** by Giorgio Corani, Dario Azzimonti, Jo\~ao P. S. C. Augusto, Marco Zaffalon, _Machine Learning and Knowledge Discovery in Databases_ (2021). [[doi]](https://doi.org/10.1007/978-3-030-67664-3_13)
-
-1. **Grouped functional time series forecasting: an application to age-specific mortality rates** by Han Lin Shang, Rob J. Hyndman, _Journal of Computational and Graphical Statistics_ (2017). [[doi]](https://doi.org/10.1080/10618600.2016.1237877)
-1. **Do we want coherent hierarchical forecasts, or minimal MAPEs or MAEs? (We won't get both!)** by Stephan Kolassa, _International Journal of Forecasting_ (2023). 
-
-1. **Point and probabilistic forecast reconciliation for general linearly constrained multiple time series** by Daniele Girolimetto, Tommaso Di Fonzo, _Statistical Methods & Applications_ (2023). [[doi]](https://doi.org/10.1007/s10260-023-00738-6) [[github]](https://github.com/danigiro/mtsreco) [[arXiv]](https://arxiv.org/abs/2305.05330)
-
-1. **An ensemble methodology for hierarchical probabilistic electric vehicle load forecasting at regular charging stations** by L Buzna, P De Falco, G Ferruzzi, S Khormali, D Proto, N Refa, M Straka, G van der Poele, _Applied energy_ (2021). [[doi]](https://doi.org/10.1016/j.apenergy.2020.116337) [[url]](http://dx.doi.org/10.1016/j.apenergy.2020.116337)
-1. **Global energy forecasting competition 2017: Hierarchical probabilistic load forecasting** by Tao Hong, Jingrui Xie, Jonathan Black, _International Journal of Forecasting_ (2019). [[doi]](https://doi.org/10.1016/j.ijforecast.2019.02.006) 
-1. **Probabilistic hierarchical forecasting with deep Poisson mixtures** by Kin G Olivares, O Nganba Meetei, Ruijun Ma, Rohan Reddy, Mengfei Cao, Lee Dicker (2022). [[arXiv]](https://arxiv.org/abs/2110.13179v6)
-1. **Blending gradient boosted trees and neural networks for point and probabilistic forecasting of hierarchical time series** by Ioannis Nasios, Konstantinos Vogklis, _International Journal of Forecasting_ (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2022.01.001)
-1. **Reconciled boosted models for GEFCom2017 hierarchical probabilistic load forecasting** by Cameron Roach, _International Journal of Forecasting_ (2019). [[doi]](https://doi.org/10.1016/j.ijforecast.2018.09.009)
-1. **Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression** by Olivier Sprangers, Sebastian Schelter, Maarten de Rijke, _Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ (2021). [[doi]](https://doi.org/10.1145/3447548.3467278)
-1. **Coherent Hierarchical Probabilistic Forecasting of Electric Vehicle Charging Demand** by Zheng, Kedi, Hanwei Xu, Zeyang Long, Yi Wang, and Qixin Chen, _IEEE Transactions on Industry Applications_ (2023). [[doi]](https://doi.org/10.1109/tia.2023.3344544)
-1. **Simultaneously reconciled quantile forecasting of hierarchically related time series** by Xing Han, Sambarta Dasgupta, Joydeep Ghosh, _Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS)_ (2021). [[arXiv]](https://arxiv.org/abs/2102.12612)
-
-1. **Automatic hierarchical time-series forecasting using Gaussian processes** by Luis Roque, Luis Torgo, Carlos Soares, _Engineering Proceedings_ (2021). [[doi]](https://doi.org/10.3390/engproc2021005049)
-1. **Hierarchically regularized deep forecasting** by Biswajit Paria, Rajat Sen, Amr Ahmed, Abhimanyu Das (2021). [[arXiv]](https://arxiv.org/abs/2106.07630)
-1. **A Bayesian model for forecasting hierarchically structured time series** by Julie Novak, Scott McGarvie, Beatriz Etchegaray Garcia (2017). [[arXiv]](https://arxiv.org/abs/1711.04738)
-
-
-
-### Temporal <a name="prob_te"/>
-
-1. **Probabilistic forecast reconciliation with applications to wind power and electric load** by Jooyoung Jeon, Anastasios Panagiotelis, Fotios Petropoulos, _European Journal of Operational Research_ (2019). [[doi]](https://doi.org/10.1016/j.ejor.2019.05.020)
-1. **Efficient probabilistic reconciliation of forecasts for real-valued and count time series** by Lorenzo Zambon, Dario Azzimonti, Giorgio Corani, _Statistics and Computing_ (2022). [[doi]](https://doi.org/10.1007/s11222-023-10343-y) [[arXiv]](https://arxiv.org/abs/2210.02286)
-1. **Check for Updates Electricity Load and Peak Forecasting: Feature Engineering, Probabilistic Light GBM and Temporal Hierarchies** by Rubattu, Nicolò, Gabriele Maroni, and Giorgio Corani, _Advanced Analytics and Learning on Temporal Data: 8th ECML PKDD Workshop_ (2023).
-1. **Deep Learning Temporal Hierarchies for Interval Forecasts** by Filotas Theodosiou, Nikolaos Kourentzes (2021). [[url]](https://www.researchgate.net/publication/358425154_Deep_Learning_Temporal_Hierarchies_for_Interval_Forecasts)
-
-### Cross-temporal <a name="prob_ct"/>
-
-1. **A novel reconciliation approach for hierarchical electricity consumption forecasting based on resistant regression** by Erick Meira, Maur\'\icio Franca Lila, Fernando Luiz Cyrino Oliveira, _Energy_ (2023). 
-1. **Cross-temporal Probabilistic Forecast Reconciliation** by Daniele Girolimetto, George Athanasopoulos, Tommaso  Di Fonzo, Rob J Hyndman, _International Journal of Forecasting_ (2023). [[doi]](https://doi.org/10.1016/j.ijforecast.2023.10.003) [[github]](https://github.com/danigiro/ctprob) [[arXiv]](https://arxiv.org/abs/2303.17277)
+1. **Cross-temporal aggregation: Improving the forecast accuracy of hierarchical electricity consumption** by Evangelos Spiliotis, Fotios Petropoulos, Nikolaos Kourentzes, Vassilios Assimakopoulos, _Applied Energy_ (2020). [[doi]](https://doi.org/10.1016/j.apenergy.2019.114339)
+1. **Enhancements in cross-temporal forecast reconciliation, with an application to solar irradiance forecasts** by Tommaso Di Fonzo, Daniele Girolimetto (2022). [[arXiv]](https://arxiv.org/abs/2209.07146)
+1. **Toward a one-number forecast: cross-temporal hierarchies** by Nikolaos Kourentzes, _Foresight: The International Journal of Applied Forecasting_ (2022). 
+1. **Cross-temporal forecast reconciliation: Optimal combination method and heuristic alternatives** by Tommaso Di Fonzo, Daniele Girolimetto, _International Journal of Forecasting_ (2023). [[doi]](https://doi.org/10.1016/j.ijforecast.2021.08.004) [[github]](https://github.com/danigiro/AusGDP_IJF) [[arXiv]](https://arxiv.org/abs/2303.17277)
+1. **Spatio-temporal reconciliation of solar forecasts** by Tommaso Di Fonzo, Daniele Girolimetto, _Solar Energy_ (2023). 
+1. **A novel reconciliation approach for hierarchical electricity consumption forecasting based on resistant regression** by Erick Meira, Maur\'\icio Franca Lila, Fernando Luiz Cyrino Oliveira, _Energy_ (2023). [[doi]](https://doi.org/10.1016/j.energy.2023.126794) [probabilistic]
+1. **Cross-temporal Probabilistic Forecast Reconciliation** by Daniele Girolimetto, George Athanasopoulos, Tommaso  Di Fonzo, Rob J Hyndman, _International Journal of Forecasting_ (2024). [[doi]](https://doi.org/10.1016/j.ijforecast.2023.10.003) [[github]](https://github.com/danigiro/ctprob) [[arXiv]](https://arxiv.org/abs/2303.17277) [probabilistic]
 
 ## Software <a name="soft"/>
 ### R
@@ -236,62 +217,59 @@ The remains of the README is organised as follow. ...TODO...
     - Accompanying paper: **HierarchicalForecast: A Reference Framework for Hierarchical Forecasting in Python** by Kin G. Olivares, Federico Garza, David Luo, Cristian Challú, Max Mergenthaler, Souhaib Ben Taieb, Shanika L. Wickramasuriya, Artur Dubrawski (2023). [[arXiv]](https://arxiv.org/abs/2207.03517)
 
 
-## Beyond forecasting/Not only forecasting...
+## Beyond forecasting and reconciliation
 1. **The precision of national income estimates** by Richard Stone, D. G. Champernowne, J. E. Meade, _Review of Economic Studies_ (1942). [[doi]](https://doi.org/10.2307/2967664)
-1. **Input-output and national accounts** by Richard Stone (1961). 
+1. **Is aggregation necessarily bad?** by Yehuda Grunfeld, Zvi Griliches, _The Review of Economics and Statistics_ (1960). 
+1. **Input-output and national accounts** by Richard Stone (1961).
+1. **Should aggregation prior to estimation be the rule?** by John B. Edwards, Guy H. Orcutt, _The Review of Economics and Statistics_ (1969). 
+1. **Best linear unbiased interpolation, distribution, and extrapolation of time series by related series** by Gregory C Chow, An-loh Lin, _The  of Economics and Statistics_ (1971). 
+1. **Asymptotic behaviour of temporal aggregates of time series** by G C Tiao, _Biometrika_ (1972). [[doi]](https://doi.org/10.1093/biomet/59.3.525)
+1. **Some consequences of temporal aggregation and systematic sampling for ARMAand ARMAX models** by K.R.W. Brewer, _Journal of Econometrics_ (1973). [[doi]](https://doi.org/10.1016/0304-4076(73)90015-8)
+1. **Aggregate versus subaggregate models in local area forecasting** by D. M. Dunn, W. H. Williams, T. L. Dechaine, _Journal of the American Statistical Association_ (1976). [[doi]](https://doi.org/10.1080/01621459.1976.10481478)
 1. **The estimation of large social account matrices** by R P Byron, _Journal of the Royal Statistical Society, Series A_ (1978). [[doi]](https://doi.org/10.2307/2344807) [[url]](http://www.jstor.org/stable/2344807)
 1. **Corrigenda: The estimation of large social account matrices** by R P Byron, _Journal of the Royal Statistical Society. Series A_ (1979). [[doi]](https://doi.org/10.2307/2982515)
-1. **The estimation of $M$ disaggregate time series when contemporaneous and temporal aggregates are known** by Tommaso Di Fonzo, _The Review of Economics and Statistics_ (1990). [[doi]](https://doi.org/10.2307/2109758)
-1. **Benchmarking, Temporal Distribution, and Reconciliation Methods for Time Series** by Estela Bee Dagum, Pierre A Cholette (2006). [[doi]](https://doi.org/10.1007/0-387-35439-5)
-1. **Simultaneous and two-step reconciliation of systems of time series: methodological and practical issues** by Tommaso Di Fonzo, Marco Marini, _Journal of the Royal Statistical Society, Series C_ (2011). [[doi]](https://doi.org/10.1111/j.1467-9876.2010.00733.x)
-1. **Benchmarking large accounting frameworks: a generalized multivariate model** by Reinier Bikker, Jacco Daalmans, Nino Mushkudiani, _Economic Systems Research_ (2013). 
-1. **Optimal Reconciliation of Seasonally Adjusted Disaggregates Taking Into Account the Difference Between Direct and Indirect Adjustment of the Aggregate** by Francisco Corona, Victor M Guerrero, Jesús López-Peréz , _Journal of Official Statistics_ (2021). 
-1. **Constrained forecasting in autoregressive time series models: A Bayesian analysis** by Enrique De Alba, _International Journal of Forecasting_ (1993). 
-1. **Forecasting with multivariate temporal aggregation: The case of promotional modelling** by Nikolaos Kourentzes, Fotios Petropoulos, _International Journal of Production Economics_ (2016). [[DOI]](https://doi.org/10.1016/j.ijpe.2015.09.011)  
-1. **Demand forecasting by temporal aggregation: Using optimal or multiple aggregation levels?** by Nikolaos Kourentzes, Bahman Rostami-Tabar, Devon K Barrow, _Journal of Business Research_ (2017). [[DOI]](https://doi.org/10.1016/j.jbusres.2017.04.016)
 1. **Aggregation and proration in forecasting** by E Shlifer, R W Wolff, _Management Science_ (1979). [[url]](http://www.jstor.org/stable/2630330)
-1. **Temporal aggregation of univariate and multivariate time series models: A survey** by Andrea Silvestrini, David Veredas, _Journal of Economic Surveys_ (2008). [[doi]](https://doi.org/10.1111/j.1467-6419.2007.00538.x)
-1. **Kalman filtering with state equality constraints** by Dan Simon, Tien Li Chia, _IEEE transactions on Aerospace and Electronic Systems_ (2002). 
-1. **Optimal state estimation: Kalman, $H_\infty$, and nonlinear approaches** by Dan Simon (2006). 
-1. **Kalman filtering with state constraints: a survey of linear and nonlinear algorithms** by Dan Simon, _IET Control Theory \& Applications_ (2010).
-1. **Constrained Forecasting: Some Implementation Guidelines** by Eugene B Fliedner, Vincent A Mabert, _Decision Sciences_ (1992). 
-1. **Disaggregation methods to expedite product line forecasting** by C W Gross, J E Sohl, _Journal of Forecasting_ (1990). [[doi]](https://doi.org/10.1002/for.3980090304)
-1. **Is aggregation necessarily bad?** by Yehuda Grunfeld, Zvi Griliches, _The Review of Economics and Statistics_ (1960). 
-1. **The effect of aggregation on prediction in autoregressive integrated moving-average models** by L. K. Hotta, J. Cardoso Neto, _Journal of Time Series Analysis_ (1993). 
-1. **The effect of overlapping aggregation on time series models: an application to the unemployment rate in Brazil** by Luiz K Hotta, Pedro A Morettin, Pedro L Valls Pereira, _Brazilian Review of Econometrics_ (1992). 
-1. **Forecasting euro area inflation: Does aggregating forecasts by HICP component improve forecast accuracy?** by K Hubrich, _International Journal of Forecasting_ (2005). 
-1. **Improving forecasting by estimating time series structural components across multiple frequencies** by Nikolaos Kourentzes, Fotios Petropoulos, Juan R Trapero, _International Journal of Forecasting_ (2014). 
-1. **Forecasting temporally aggregated vector ARMA processes** by Helmut L\utkepohl, _Journal of Forecasting_ (1986). [[url]](http://onlinelibrary.wiley.com/doi/10.1002/for.3980050202/abstract)
-1. **An aggregate--disaggregate intermittent demand approach (ADIDA) to forecasting: an empirical proposition and analysis** by Konstantinos Nikolopoulos, Aris A Syntetos, John E Boylan, Fotios Petropoulos, Vassilis Assimakopoulos, _Journal of the Operational Research Society_ (2011).
-
-1. **A note on aggregation, disaggregation and forecasting performance** by Arnold Zellner, Justin Tobias, _Journal of Forecasting_ (2000). [[doi]](https://doi.org/10.1002/1099-131X(200009)19:5%3C457::AID-FOR761%3E3.0.CO;2-6)
-1. **Aggregate versus subaggregate models in local area forecasting** by D. M. Dunn, W. H. Williams, T. L. Dechaine, _Journal of the American Statistical Association_ (1976). [[doi]](https://doi.org/10.1080/01621459.1976.10481478)
-
 1. **Prior information and ARIMA forecasting** by Pierre A Cholette, _Journal of Forecasting_ (1982). 
-1. **Best linear unbiased interpolation, distribution, and extrapolation of time series by related series** by Gregory C Chow, An-loh Lin, _The  of Economics and Statistics_ (1971). 
-1. **Should aggregation prior to estimation be the rule?** by John B. Edwards, Guy H. Orcutt, _The Review of Economics and Statistics_ (1969). 
-1. **Assessment of aggregation strategies for machine-learning based short-term load forecasting** by Cong Feng, Jie Zhang, _Electric Power Systems Research_ (2020). [[doi]](https://doi.org/10.1016/j.epsr.2020.106304)
-1. **Highest-density forecast regions for nonlinear and non-normal time series models** by Rob J Hyndman, _J Forecasting_ (1995).
-
-1. **Counterfactual Reconciliation: Incorporating Aggregation Constraints for More Accurate Causal Effect Estimates.** by Cengiz, Doruk, and Hasan Tekgüç, _International Journal of Forecasting_ (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2022.08.011)
-1. **Estimation of data measured with error and subject to linear restrictions** by Martin Weale, _Journal of Applied Econometrics_ (1992). 
-1. **Asymptotic behaviour of temporal aggregates of time series** by G C Tiao, _Biometrika_ (1972). [[doi]](https://doi.org/10.1093/biomet/59.3.525)
-
-1. **A systemic view of the ADIDA framework** by Georgios P Spithourakis, Fotios Petropoulos, Konstantinos Nikolopoulos, Vassilios Assimakopoulos, _IMA Journal of Management Mathematics_ (2014).1. **Improving the performance of popular supply chain forecasting techniques** by Georgios P Spithourakis, Fotios Petropoulos, M Zied Babai, Konstantinos Nikolopoulos, Vassilios Assimakopoulos, _Supply Chain Forum: An International Journal_ (2011). 
-1. **Measurement error with accounting constraints: Point and interval estimation for latent data with an application to UK Gross Domestic Product** by Richard J Smith, Martin R Weale, Steven E Satchell, _The Review of Economic Studies_ (1998).
-1. **Applicability of the M5 to forecasting at Walmart** by Brian Seaman, John Bowman, _International Journal of Forecasting_ (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2021.06.002)
-1. **The impact of temporal aggregation on supply chains with ARMA (1, 1) demand processes** by Bahman Rostami-Tabar, M Zied Babai, Mohammad Ali, John E Boylan, _European Journal of Operational Research_ (2019).
-
-1. **Temporal aggregation and economic times series** by R.J. Rossana, J.J. Seater, _Journal of Business \& Economic Statistics_ (1995). [[doi]](https://doi.org/10.2307/1392389)
-1. **A note on the forecast performance of temporal aggregation** by Bahman Rostami-Tabar, Mohamed Zied Babai, Aris Syntetos, Yves Ducq, _Naval Research Logistics_ (2014). 
-1. **Demand forecasting by temporal aggregation** by Bahman Rostami-Tabar, M Zied Babai, Aris Syntetos, Yves Ducq, _Naval Research Logistics_ (2013). 
 1. **A note on the estimation of disaggregate time series when the aggregate is known** by Nicola Rossi, _The Review of Economics and Statistics_ (1982). 
-1. **Restricted forecasts using exponential smoothing techniques** by A Lorena Rosas, Vi\'ctor M Guerrero, _International Journal of Forecasting_ (1994). 
-1. **Data Processing and Reconciliation for Chemical Process Operations** by Jos\'e A Romagnoli, Mabel Cristina Sanchez (2000). [[url]]dzHoeR9OENcC})
-1. **Restoring accounting constraints in time series: methods and software for a statistical agency** by Benoit Quenneville, Susie Fortier, _Economic Time Series: Modeling and Seasonality_ (2012).
+1. **Forecasting temporally aggregated vector ARMA processes** by Helmut L\utkepohl, _Journal of Forecasting_ (1986). [[url]](http://onlinelibrary.wiley.com/doi/10.1002/for.3980050202/abstract)
 1. **Modelling and forecasting linear combinations of time series** by Francisco A Pino, Pedro A Morettin, Ra\'ul P Mentz, _International Statistical Review/Revue Internationale de Statistique_ (1987). 
+1. **Disaggregation methods to expedite product line forecasting** by C W Gross, J E Sohl, _Journal of Forecasting_ (1990). [[doi]](https://doi.org/10.1002/for.3980090304)
+1. **The estimation of $M$ disaggregate time series when contemporaneous and temporal aggregates are known** by Tommaso Di Fonzo, _The Review of Economics and Statistics_ (1990). [[doi]](https://doi.org/10.2307/2109758)
+1. **Constrained Forecasting: Some Implementation Guidelines** by Eugene B Fliedner, Vincent A Mabert, _Decision Sciences_ (1992). 
+1. **Estimation of data measured with error and subject to linear restrictions** by Martin Weale, _Journal of Applied Econometrics_ (1992). 
+1. **The effect of overlapping aggregation on time series models: an application to the unemployment rate in Brazil** by Luiz K Hotta, Pedro A Morettin, Pedro L Valls Pereira, _Brazilian Review of Econometrics_ (1992). 
+1. **The effect of aggregation on prediction in autoregressive integrated moving-average models** by L. K. Hotta, J. Cardoso Neto, _Journal of Time Series Analysis_ (1993). 
+1. **Constrained forecasting in autoregressive time series models: A Bayesian analysis** by Enrique De Alba, _International Journal of Forecasting_ (1993). 
+1. **Restricted forecasts using exponential smoothing techniques** by A Lorena Rosas, Vi\'ctor M Guerrero, _International Journal of Forecasting_ (1994). 
+1. **Highest-density forecast regions for nonlinear and non-normal time series models** by Rob J Hyndman, _J Forecasting_ (1995).
+1. **Temporal aggregation and economic times series** by R.J. Rossana, J.J. Seater, _Journal of Business \& Economic Statistics_ (1995). [[doi]](https://doi.org/10.2307/1392389)
+1. **Measurement error with accounting constraints: Point and interval estimation for latent data with an application to UK Gross Domestic Product** by Richard J Smith, Martin R Weale, Steven E Satchell, _The Review of Economic Studies_ (1998).
+1. **A note on aggregation, disaggregation and forecasting performance** by Arnold Zellner, Justin Tobias, _Journal of Forecasting_ (2000). [[doi]](https://doi.org/10.1002/1099-131X(200009)19:5%3C457::AID-FOR761%3E3.0.CO;2-6)
+1. **Data Processing and Reconciliation for Chemical Process Operations** by Jos\'e A Romagnoli, Mabel Cristina Sanchez (2000).
+1. **Kalman filtering with state equality constraints** by Dan Simon, Tien Li Chia, _IEEE transactions on Aerospace and Electronic Systems_ (2002). 
+1. **Forecasting euro area inflation: Does aggregating forecasts by HICP component improve forecast accuracy?** by K Hubrich, _International Journal of Forecasting_ (2005). 
+1. **Optimal state estimation: Kalman, $H_\infty$, and nonlinear approaches** by Dan Simon (2006). 
+1. **Benchmarking, Temporal Distribution, and Reconciliation Methods for Time Series** by Estela Bee Dagum, Pierre A Cholette (2006). [[doi]](https://doi.org/10.1007/0-387-35439-5)
+1. **Temporal aggregation of univariate and multivariate time series models: A survey** by Andrea Silvestrini, David Veredas, _Journal of Economic Surveys_ (2008). [[doi]](https://doi.org/10.1111/j.1467-6419.2007.00538.x)
+1. **Kalman filtering with state constraints: a survey of linear and nonlinear algorithms** by Dan Simon, _IET Control Theory \& Applications_ (2010).
+1. **Simultaneous and two-step reconciliation of systems of time series: methodological and practical issues** by Tommaso Di Fonzo, Marco Marini, _Journal of the Royal Statistical Society, Series C_ (2011). [[doi]](https://doi.org/10.1111/j.1467-9876.2010.00733.x)
+1. **Improving the performance of popular supply chain forecasting techniques** by Georgios P Spithourakis, Fotios Petropoulos, M Zied Babai, Konstantinos Nikolopoulos, Vassilios Assimakopoulos, _Supply Chain Forum: An International Journal_ (2011). 
+1. **An aggregate--disaggregate intermittent demand approach (ADIDA) to forecasting: an empirical proposition and analysis** by Konstantinos Nikolopoulos, Aris A Syntetos, John E Boylan, Fotios Petropoulos, Vassilis Assimakopoulos, _Journal of the Operational Research Society_ (2011).
+1. **Restoring accounting constraints in time series: methods and software for a statistical agency** by Benoit Quenneville, Susie Fortier, _Economic Time Series: Modeling and Seasonality_ (2012).
+1. **Benchmarking large accounting frameworks: a generalized multivariate model** by Reinier Bikker, Jacco Daalmans, Nino Mushkudiani, _Economic Systems Research_ (2013).
+1. **Demand forecasting by temporal aggregation** by Bahman Rostami-Tabar, M Zied Babai, Aris Syntetos, Yves Ducq, _Naval Research Logistics_ (2013). 
+1. **Improving forecasting by estimating time series structural components across multiple frequencies** by Nikolaos Kourentzes, Fotios Petropoulos, Juan R Trapero, _International Journal of Forecasting_ (2014). 
+1. **A systemic view of the ADIDA framework** by Georgios P Spithourakis, Fotios Petropoulos, Konstantinos Nikolopoulos, Vassilios Assimakopoulos, _IMA Journal of Management Mathematics_ (2014).
+1. **A note on the forecast performance of temporal aggregation** by Bahman Rostami-Tabar, Mohamed Zied Babai, Aris Syntetos, Yves Ducq, _Naval Research Logistics_ (2014). 
+1. **Forecasting with multivariate temporal aggregation: The case of promotional modelling** by Nikolaos Kourentzes, Fotios Petropoulos, _International Journal of Production Economics_ (2016). [[DOI]](https://doi.org/10.1016/j.ijpe.2015.09.011)  
+1. **On the performance of overlapping and non-overlapping temporal demand aggregation approaches** by John E Boylan, M Zied Babai, _International Journal of Production Economics_ (2016).
 1. **Integrated hierarchical forecasting** by Clint L.P. Pennings, Jan van Dalen, _European Journal of Operational Research_ (2017). [[doi]](https://doi.org/10.1016/j.ejor.2017.04.047)
-
+1. **Demand forecasting by temporal aggregation: Using optimal or multiple aggregation levels?** by Nikolaos Kourentzes, Bahman Rostami-Tabar, Devon K Barrow, _Journal of Business Research_ (2017). [[DOI]](https://doi.org/10.1016/j.jbusres.2017.04.016)
+1. **The impact of temporal aggregation on supply chains with ARMA (1, 1) demand processes** by Bahman Rostami-Tabar, M Zied Babai, Mohammad Ali, John E Boylan, _European Journal of Operational Research_ (2019).
+1. **Assessment of aggregation strategies for machine-learning based short-term load forecasting** by Cong Feng, Jie Zhang, _Electric Power Systems Research_ (2020). [[doi]](https://doi.org/10.1016/j.epsr.2020.106304)
+1. **Optimal Reconciliation of Seasonally Adjusted Disaggregates Taking Into Account the Difference Between Direct and Indirect Adjustment of the Aggregate** by Francisco Corona, Victor M Guerrero, Jesús López-Peréz , _Journal of Official Statistics_ (2021).
+1. **Counterfactual Reconciliation: Incorporating Aggregation Constraints for More Accurate Causal Effect Estimates.** by Cengiz, Doruk, and Hasan Tekgüç, _International Journal of Forecasting_ (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2022.08.011)
+1. **Applicability of the M5 to forecasting at Walmart** by Brian Seaman, John Bowman, _International Journal of Forecasting_ (2022). [[doi]](https://doi.org/10.1016/j.ijforecast.2021.06.002)
 
 
 ## PhD and master thesis <a name="Thesis"/>
