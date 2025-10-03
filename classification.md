@@ -5,6 +5,23 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 
 The remainder of the README is organized as follows: the **Introduction** collects entry points and reviews; the three core sections cover the main reconciliation frameworks (**Cross-sectional**, **Temporal**, and **Cross-temporal**). A **Software** section catalogs open-source implementations in R and Python. **Beyond forecasting and reconciliation** gathers closely related foundations (aggregation, benchmarking, temporal distribution, accounting constraints, etc.). Finally, **Thesis** section includes dissertations in the area. 
 
+
+## How to cite
+
+If you find this repository useful in your research or applications, please cite it as:
+
+Girolimetto, D., & Yang, YF. (2025). Awesome Forecast Reconciliation: A Curated Reference List. https://github.com/danigiro/awesome-forecast-reconciliation
+
+```bibtex
+@misc{awesomeFR,
+  title        = {Awesome Forecast Reconciliation: A Curated Reference List},
+  author       = {Girolimetto, Daniele and Yang, Yangzhuoran Fin},
+  year         = {2025},
+  url = {https://github.com/danigiro/awesome-forecast-reconciliation}
+}
+```
+
+
 ## Contents
 
 - [Cross-sectional framework](#csframe)
@@ -267,11 +284,6 @@ The remainder of the README is organized as follows: the **Introduction** collec
 1. **Essays in hierarchical time series forecasting and forecast combination** by Christoph Weiss, _University of Cambridge PhD Thesis_ (2018). [[doi]](https://doi.org/10.17863/CAM.21895)
 1. **Probabilistic Forecast Reconciliation: Theory and Applications** by Puwasala Gamakumara, _Monash PhD Thesis_ (2020). [[url]](https://bridges.monash.edu/articles/thesis/Probabilistic_Forecast_Reconciliation_Theory_and_Applications/11869533?file=21758751)
 1. **Forecast reconciliation: Methodological issues and applications** by Daniele Girolimetto, _UniPD PhD Thesis_ (2020). [[url]](https://www.research.unipd.it/handle/11577/3513823)
-
-
-
-
-
 
 
 <!---# No reconciliation?--->
