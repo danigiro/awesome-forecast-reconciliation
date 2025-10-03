@@ -285,36 +285,3 @@ Girolimetto, D., & Yang, YF. (2025). Awesome Forecast Reconciliation: A Curated 
 1. **Probabilistic Forecast Reconciliation: Theory and Applications** by Puwasala Gamakumara, _Monash PhD Thesis_ (2020). [[url]](https://bridges.monash.edu/articles/thesis/Probabilistic_Forecast_Reconciliation_Theory_and_Applications/11869533?file=21758751)
 1. **Forecast reconciliation: Methodological issues and applications** by Daniele Girolimetto, _UniPD PhD Thesis_ (2020). [[url]](https://www.research.unipd.it/handle/11577/3513823)
 
-
-<!---# No reconciliation?--->
-<!--- 1. **Demand forecasting in supply chains: a review of aggregation and hierarchical approaches** by M. Zied Babai, John E. Boylan, Bahman Rostami-Tabar, _International Journal of Production Research_ (2022). [[doi]](https://doi.org/10.1080/00207543.2021.2005268)
-1. **Forecast UPC-level FMCG demand, Part I: Exploratory analysis and visualization** by Dazhi Yang, Gary S.W. Goh, Chi Xu, Allan N. Zhang, Orkan Akcan, _Proceedings - 2015 IEEE International Conference on Big Data_ (2015). [[doi]](https://doi.org/10.1109/BigData.2015.7363993)
-1. **Forecasting of cohort fertility under a hierarchical Bayesian approach** by Joanne Ellison, Erengul Dodd, Jonathan J Forster, _Journal of the Royal Statistical Society, Series A,_ (2020). [[doi]](https://doi.org/10.1111/rssa.12566)
-1. **Global energy forecasting competition 2012** by Tao Hong, Pierre Pinson, Shu Fan, _International Journal of Forecasting_ (2014). [[doi]](https://doi.org/10.1016/j.ijforecast.2013.07.001) [[url]](http://www.sciencedirect.com/science/article/pii/S0169207013000745)
-1. **LSMR: An iterative algorithm for sparse least-squares problems** by David Chin Lung Fong, Michael Saunders, _SIAM Journal on Scientific Computing_ (2011). 
-1. **Optimal conditional ARIMA forecasts** by V\'\ictor M Guerrero, _Journal of forecasting_ (1989). 
-1. **Neural networks for short-term load forecasting: A review and evaluation** by Henrique Steinherz Hippert, Carlos Eduardo Pedreira, Reinaldo Castro Souza, _IEEE Transactions on Power Systems_ (2001). 
-1. **Forecasting: Principles and Practice** by Rob J. Hyndman, George Athanasopoulos (2021). [[url]]OTexts.com/fpp3)
-1. **Evaluating predictive count data distributions in retail sales forecasting** by Stephan Kolassa, _International Journal of Forecasting_ (2016). 
-1. **Elucidate structure in intermittent demand series** by Nikolaos Kourentzes, George Athanasopoulos, _European Journal of Operational Research_ (2021). [[doi]](https://doi.org/10.1016/j.ejor.2020.05.046)
-1. **On intermittent demand model optimisation and selection** by Nikolaos Kourentzes, _International Journal of Production Economics_ (2014). 
-1. **High-dimensional covariance matrix estimation** by Clifford Lam, _Wiley Interdisciplinary reviews: computational statistics_ (2020). 
-1. **Forecasting contemporaneously aggregated vector** by H L\utkepohl, _Journal of Business \& Economic Statistics_ (1984). [[doi]](https://doi.org/10.2307/1391703)
-1. **Linear transformations of vector ARMA processes** by H L\utkepohl, _Journal of Econometrics_ (1984). 
-1. **The M5 accuracy competition: Results, findings and conclusions** by Spyros Makridakis, Evangelos Spiliotis, Vassilios Assimakopoulos (2022). [[url]](https://www.researchgate.net/publication/344487258)
-1. **Forecast horizon aggregation in integer autoregressive moving average (INARMA) models** by Maryam Mohammadipour, John E Boylan, _Omega_ (2012). 
-1. **Forecast combinations for intermittent demand** by Fotios Petropoulos, Nikolaos Kourentzes, _Journal of the Operational Research Society_ (2015). 
-1. **Another look at estimators for intermittent demand** by Fotios Petropoulos, Nikolaos Kourentzes, Konstantinos Nikolopoulos, _International Journal of Production Economics_ (2016). 
-1. **The inventory performance of forecasting methods: Evidence from the M3 competition data** by Fotios Petropoulos, Xun Wang, Stephen M Disney, _International Journal of Forecasting_ (2019). 
-1. **Darts: Time Series Made Easy in Python** by Julien Herzen, Francesco Lässig, Samuele Giuliano Piazzetta, Thomas Neuer, Léo Tafti, Guillaume Raille, Tomas Van Pottelbergh, Marek Pasieka, Andrzej Skrodzki, Nicolas Huguenin, Maxime Dumonal, Jan Kościsz, Dennis Bader, Frédérick Gusset, Mounir Benheddi, Camila Williamson, Michal Kosinski, Matej Petrik, Gaël Grosch (2023). [[url]](https://unit8co.github.io/darts/)
-1. **Darts: User-Friendly Modern Machine Learning for Time Series** by Julien Herzen, Francesco Lässig, Samuele Giuliano Piazzetta, Thomas Neuer, Léo Tafti, Guillaume Raille, Tomas Van Pottelbergh, Marek Pasieka, Andrzej Skrodzki, Nicolas Huguenin, Maxime Dumonal, Jan Kościsz, Dennis Bader, Frédérick Gusset, Mounir Benheddi, Camila Williamson, Michal Kosinski, Matej Petrik, Gaël Grosch, _Journal of Machine Learning Research_ (2022). [[url]](http://jmlr.org/papers/v23/21-1177.html)
-1. **Dynamic principal component regression for forecasting functional time series in a group structure** by Han Lin Shang, _Scandinavian Actuarial Journal_ (2020). [[arXiv]](http://arxiv.org/abs/1909.00456)
-1. **tsibble: Tidy Temporal Data Frames and Tools** by Earo Wang, Di Cook, Rob J Hyndman, Mitchell O'Hara-Wild (2022). [[url]]tsibble})
-1. **An improved Lanczos algorithm for principal component analysis** by Xuansheng Wang, Beidun Chen, Jianqiang Sheng, Hongying Zheng, Tangren Dan, Xianfeng Wu, _Proceedings of 2020 the 6th International Conference on Computing and Data Engineering_ (2020). 
-1. **The reconciliation of values, volumes and prices in the national accounts** by Martin Weale, _Journal of the Royal Statistical Society, Series A,_ (1988). [[doi]](https://doi.org/10.2307/2982193) [[url]]crossref})
-1. **Some consequences of temporal aggregation in seasonal time series models** by William W S Wei, _Seasonal Analysis of Economic Time Series_ (1979). [[url]](https://www.nber.org/system/files/chapters/c4333/c4333.pdf)
-1. **Predicting Earnings with Sub-Entity Data: Some Further Evidence** by Daniel W. Collins, _Journal of Accounting Research_ (1976). [[doi]](https://doi.org/10.2307/2490463)
-1. **The forecast combination puzzle: A simple theoretical explanation** by Gerda Claeskens, Jan R Magnus, Andrey L Vasnev, Wendun Wang, _International Journal of Forecasting_ (2016). 
-1. **Temporal Aggregation in the Arima Process** by Daniel O. Stram, William W. S. Wei, _Journal of Time Series Analysis_ (1986). [[doi]](https://doi.org/10.1111/j.1467-9892.1986.tb00495.x)
-1. **Predictive accuracy gain from disaggregate sampling in ARIMA models** by Theo E Nijman, Franz C Palm, _Journal of Business \& Economic Statistics_ (1990). [[doi]](https://doi.org/10.1080/07350015.1990.10509811)
-1. **A new tidy data structure to support exploration and modeling of temporal data** by Earo Wang, Dianne Cook, Rob J Hyndman, _Journal of Computational and Graphical Statistics_ (2020). [[doi]](https://doi.org/10.1080/10618600.2019.1695624) [[url]](https://doi.org/10.1080/10618600.2019.1695624) --->
