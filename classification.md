@@ -3,7 +3,7 @@ This repository serves as a curated reference for the domain of forecast reconci
 
 We wish to express our deep appreciation to the authors of the paper "[Forecast reconciliation: A review](https://robjhyndman.com/publications/hfreview.html)" - George Athanasopoulos, Rob J Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis - for providing their BibTeX file, which served as the cornerstone of this repository. Their paper serves as an invaluable resource with its comprehensive and insightful analysis of the forecast reconciliation field, providing a thorough overview of the existing literature and highlighting key advancements and research trends.
 
-The remains of the README is organised as follow. ...TODO...
+The remainder of the README is organized as follows: the **Introduction** collects entry points and reviews; the three core sections cover the main reconciliation frameworks (**Cross-sectional**, **Temporal**, and **Cross-temporal**). A **Software** section catalogs open-source implementations in R and Python. **Beyond forecasting and reconciliation** gathers closely related foundations (aggregation, benchmarking, temporal distribution, accounting constraints, etc.). Finally, **Thesis** section includes dissertations in the area. 
 
 ## Contents
 
@@ -11,6 +11,7 @@ The remains of the README is organised as follow. ...TODO...
 - [Temporal framework](#teframe)
 - [Cross-temporal framework](#ctframe)
 - [Software](#soft)
+- [Beyond forecasting and reconciliation](#beyond)
 - [Thesis](#Thesis)
 
 ## Introduction
@@ -205,7 +206,7 @@ The remains of the README is organised as follow. ...TODO...
     - Accompanying paper: **HierarchicalForecast: A Reference Framework for Hierarchical Forecasting in Python** by Kin G. Olivares, Federico Garza, David Luo, Cristian Challú, Max Mergenthaler, Souhaib Ben Taieb, Shanika L. Wickramasuriya, Artur Dubrawski (2023). [[arXiv]](https://arxiv.org/abs/2207.03517)
 
 
-## Beyond forecasting and reconciliation
+## Beyond forecasting and reconciliation <a name="beyond"/>
 1. **The precision of national income estimates** by Richard Stone, D. G. Champernowne, J. E. Meade, _Review of Economic Studies_ (1942). [[doi]](https://doi.org/10.2307/2967664)
 1. **Is aggregation necessarily bad?** by Yehuda Grunfeld, Zvi Griliches, _The Review of Economics and Statistics_ (1960). 
 1. **Input-output and national accounts** by Richard Stone (1961).
