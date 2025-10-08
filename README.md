@@ -5,25 +5,23 @@ We wish to express our deep appreciation to the authors of the paper "[Forecast 
 
 The remainder of the README is organized as follows: the **Introduction** collects entry points and reviews; the three core sections cover the main reconciliation frameworks (**Cross-sectional**, **Temporal**, and **Cross-temporal**). A **Software** section catalogs open-source implementations in R and Python. **Beyond forecasting and reconciliation** gathers closely related foundations (aggregation, benchmarking, temporal distribution, accounting constraints, etc.). Finally, **Thesis** section includes dissertations in the area. 
 
-
-## How to cite
-
 If you find this repository useful in your research or applications, please cite it as:
 
-Girolimetto, D., & Yang, YF. (2025). Awesome Forecast Reconciliation: A Curated Reference List. https://github.com/danigiro/awesome-forecast-reconciliation
+_Girolimetto, D., & Yang, YF. (2025). Awesome Forecast Reconciliation: A Curated Reference List. https://github.com/danigiro/awesome-forecast-reconciliation_
 
 ```bibtex
 @misc{awesomeFR,
   title        = {Awesome Forecast Reconciliation: A Curated Reference List},
   author       = {Girolimetto, Daniele and Yang, Yangzhuoran Fin},
   year         = {2025},
-  url = {https://github.com/danigiro/awesome-forecast-reconciliation}
+  url          = {https://github.com/danigiro/awesome-forecast-reconciliation}
 }
 ```
 
 
 ## Contents
 
+- [Cross-sectional framework](#intro)
 - [Cross-sectional framework](#csframe)
 - [Temporal framework](#teframe)
 - [Cross-temporal framework](#ctframe)
@@ -31,7 +29,7 @@ Girolimetto, D., & Yang, YF. (2025). Awesome Forecast Reconciliation: A Curated 
 - [Beyond forecasting and reconciliation](#beyond)
 - [Thesis](#Thesis)
 
-## Introduction
+## Introduction <a name="intro"/>
 1. **Chapter 11 Forecasting Hierarchical and grouped time series** by Rob J Hyndman and George Athanasopoulos, _Forecasting: Principles and Practice_, 3rd edition (2021). [[url]](https://otexts.com/fpp3/hierarchical.html)
 1. **Notation for forecast reconciliation** by Rob J Hyndman (2022). [[url]](https://robjhyndman.com/hyndsight/reconciliation-notation.html)
 1. **Editorial: Innovations in Hierarchical Forecasting** by Athanasopoulos, George, Rob J. Hyndman, Nikolaos Kourentzes, and Anastasios Panagiotelis, _International Journal of Forecasting_ (2024). [[doi]](https://doi.org/10.1016/j.ijforecast.2024.01.003)
