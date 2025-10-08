@@ -21,7 +21,7 @@ _Girolimetto, D., & Yang, YF. (2025). Awesome Forecast Reconciliation: A Curated
 
 ## Contents
 
-- [Cross-sectional framework](#intro)
+- [Introduction](#intro)
 - [Cross-sectional framework](#csframe)
 - [Temporal framework](#teframe)
 - [Cross-temporal framework](#ctframe)
