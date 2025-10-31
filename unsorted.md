@@ -16,6 +16,7 @@
 
 ## Incomplete information
 
+1. **Improving load forecasts in Italian bidding zones: A coherent combination approach** by D Girolimetto (2025).
 1. **Non-Negative Forecast Reconciliation: Optimal Methods and Operational Solutions** by D Girolimetto, _Forecasting_ (2025).
 1. **Forecast reconciliation with non-linear constraints** by D Girolimetto, A Panagiotelis, T Di Fonzo, H Li (2025). [[arXiv](http://arxiv.org/abs/2510.21249)]
 1. **Forecasting for Empty Container Repositioning.** by M Zugno, L Petersen, W Ponikiewski…, _Foresight: The International …_ (2025).
