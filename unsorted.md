@@ -16,6 +16,7 @@
 
 ## Incomplete information
 
+1. **Coherent forecasts for tourism demand with automated immutability constraints** by Q Wen, Y Zeng, F Petropoulos, Y Kang, _Tourism Management_ (2026).
 1. **Hierarchical Time Series Forecasting with Robust Reconciliation** by S Aikawa, A Suzuki, K Yoshitake, K Teshigawara… (2025). [[arXiv](http://arxiv.org/abs/2510.20383)]
 1. **Improving load forecasts in Italian bidding zones: A coherent combination approach** by D Girolimetto (2025).
 1. **Non-Negative Forecast Reconciliation: Optimal Methods and Operational Solutions** by D Girolimetto, _Forecasting_ (2025).
